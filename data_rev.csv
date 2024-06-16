@@ -1,0 +1,683 @@
+Company,Incident_date,Ride_name,Theme_Park,Description,Year,Age,Gender,Passed_away,Pre_existing_condition,Month,Month_name,Season,Day
+Disney World,2022-09-06,Alien Swirling Saucers,Hollywood Studios,guest with pre-existing condition sustained injury to toes,2022,59,Female,No,Yes,9,September,Low,Tuesday
+Disney World,2014-05-10,Astro Orbiter,Magic Kingdom," guest fell exiting vehicle, developed blood clot in leg",2014,68,Male,No,No,5,May,Medium,Saturday
+Disney World,2009-03-12,Astro Orbiter,Magic Kingdom,fractured left ankle exiting ride,2009,40,Female,No,No,3,March,High,Thursday
+Disney World,2022-07-08,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition was briefly unresponsive while experiencing attraction,2022,83,Male,No,Yes,7,July,High,Friday
+Disney World,2022-04-19,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition had motion sickness after experiencing the attraction,2022,42,Female,No,Yes,4,April,High,Tuesday
+Disney World,2022-05-07,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing lost consciousness after exiting the attraction,2022,67,Female,No,No,5,May,Medium,Saturday
+Disney World,2022-01-27,Avatar Flight of Passage,Animal Kingdom,guest with a pre-existing condition had a seizure after experiencing the attraction,2022,25,Female,No,Yes,1,January,Low,Thursday
+Disney World,2021-12-18,Avatar Flight of Passage,Animal Kingdom,guest felt unwell upon exiting attraction,2021,69,Male,No,No,12,December,High,Saturday
+Disney World,2021-12-21,Avatar Flight of Passage,Animal Kingdom,guest felt disoriented after experiencing attraction,2021,69,Female,No,No,12,December,High,Tuesday
+Disney World,2021-09-16,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition felt lightheaded after experiencing the attraction,2021,68,Female,No,Yes,9,September,Low,Thursday
+Disney World,2021-06-29,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition had a seizure after experiencing the attraction,2021,27,Male,No,Yes,6,June,High,Tuesday
+Disney World,2018-03-24,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition felt ill after riding attraction,2018,41,Male,No,Yes,3,March,High,Saturday
+Disney World,2019-05-07,Avatar Flight of Passage,Animal Kingdom,guest temporarily lost consciousness while on attraction,2019,34,Female,No,No,5,May,Medium,Tuesday
+Disney World,2018-05-28,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition felt disoriented after riding attraction,2018,18,Male,No,Yes,5,May,Medium,Monday
+Disney World,2017-10-27,Avatar Flight of Passage,Animal Kingdom,guest fell while boarding ride,2017,77,Female,No,No,10,October,Low,Friday
+Disney World,2017-11-04,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition temporarily passed out on ride,2017,56,Female,No,Yes,11,November,Low,Saturday
+Disney World,2017-06-12,Avatar Flight of Passage,Animal Kingdom,guest with pre-existing condition became ill after riding,2017,79,Female,No,Yes,6,June,High,Monday
+Disney World,2017-06-24,Avatar Flight of Passage,Animal Kingdom," felt dizzy, ill and brief loss of consciousness",2017,31,Female,No,No,6,June,High,Saturday
+Universal,2004-06-27,Back to the Future,Universal Studios,Hypertension,2004,67,Female,No,No,6,June,High,Sunday
+Disney World,2012-08-05,Big Thunder Mountain Railroad,Magic Kingdom,guest with pre-existing condition complained of pain in leg upon exiting later diagnosed with a blood clot,2012,62,Female,No,Yes,8,August,High,Sunday
+Disney World,2004-12-19,Big Thunder Mountain Railroad,Magic Kingdom,reported difficulty moving when leaving ride,2004,68,Male,No,No,12,December,High,Sunday
+Disney World,2003-12-24,Big Thunder Mountain Railroad,Magic Kingdom,knee,2003,23,Male,No,No,12,December,High,Wednesday
+Disney World,2008-03-14,Big Thunder Mountain Railroad,Magic Kingdom,Seizure after exiting ride,2008,39,Male,No,No,3,March,High,Friday
+Disney World,2017-04-22,Big Thunder Mountain Railroad,Magic Kingdom,guest with pre-existing conditions felt ill,2017,59,Female,No,Yes,4,April,High,Saturday
+Disney World,2017-05-10,Big Thunder Mountain Railroad,Magic Kingdom,stomach pain,2017,44,Female,No,No,5,May,Medium,Wednesday
+Disney World,2017-02-09,Big Thunder Mountain Railroad,Magic Kingdom,guest with pre-existing condition collapsed; later passed away at hospital,2017,54,Male,Yes,Yes,2,February,Low,Thursday
+Disney World,2017-02-12,Big Thunder Mountain Railroad,Magic Kingdom,guest with pre-existing condition complained of neck pain,2017,69,Male,No,Yes,2,February,Low,Sunday
+Disney World,2015-12-06,Big Thunder Mountain Railroad,Magic Kingdom," guest complained of pain,  tremors and numbness in right arm after exiting",2015,75,Male,No,No,12,December,High,Sunday
+Disney World,2014-12-02,Big Thunder Mountain Railroad,Magic Kingdom," guest with pre-existing health conditions experienced headache & loss of consciousness after riding,  subsequently underwent surgery for aneurysm and released from hospital",2014,63,Female,No,Yes,12,December,High,Tuesday
+Disney World,2014-07-21,Big Thunder Mountain Railroad,Magic Kingdom,chest pain,2014,71,Female,No,No,7,July,High,Monday
+Disney World,2014-05-27,Big Thunder Mountain Railroad,Magic Kingdom," guest with preexisting condition exited ride with chest pain and felt dizzy, briefly lost consciousness and fell",2014,72,Female,No,Yes,5,May,Medium,Tuesday
+Disney World,2006-11-01,Buzz Lightyears Space Ranger Spin,Magic Kingdom,Seizure.,2006,56,Male,No,No,11,November,Low,Wednesday
+Disney World,2004-11-30,Buzz Lightyears Space Ranger Spin,Magic Kingdom,got sick on ride due to lights.,2004,58,Female,No,No,11,November,Low,Tuesday
+Disney World,2003-05-11,Buzz Lightyears Space Ranger Spin,Magic Kingdom,knee injury,2003,75,Female,No,No,5,May,Medium,Sunday
+Disney World,2003-05-14,Buzz Lightyears Space Ranger Spin,Magic Kingdom,lacerated ankle,2003,12,Female,No,No,5,May,Medium,Wednesday
+Disney World,2008-08-09,Buzz Lightyears Space Ranger Spin,Magic Kingdom," fell after getting off ride, fractured hip",2008,54,Male,No,No,8,August,High,Saturday
+Disney World,2019-03-18,Buzz Lightyears Space Ranger Spin,Magic Kingdom,guest fell and fractured leg while entering attraction vehicle,2019,75,Male,No,No,3,March,High,Monday
+Disney World,2018-10-25,Buzz Lightyears Space Ranger Spin,Magic Kingdom,guest fell while exiting the ride vehicle; injured hip,2018,72,Female,No,No,10,October,Low,Thursday
+Disney World,2017-06-10,Buzz Lightyears Space Ranger Spin,Magic Kingdom,felt ill after riding,2017,50,Female,No,No,6,June,High,Saturday
+Disney World,2015-09-02,Buzz Lightyears Space Ranger Spin,Magic Kingdom,guest with pre-existing health condition felt dizziness and chest pains,2015,67,Male,No,Yes,9,September,Low,Wednesday
+Disney World,2014-10-11,Buzz Lightyears Space Ranger Spin,Magic Kingdom,guest with history of diabetic seizures experienced seizure,2014,34,Female,No,Yes,10,October,Low,Saturday
+Disney World,2014-03-01,Buzz Lightyears Space Ranger Spin,Magic Kingdom,fell while exiting; fractured hip,2014,71,Female,No,No,3,March,High,Saturday
+Disney World,2013-11-07,Buzz Lightyears Space Ranger Spin,Magic Kingdom,guest felt ill after riding,2013,48,Male,No,No,11,November,Low,Thursday
+Disney World,2010-09-14,Buzz Lightyears Space Ranger Spin,Magic Kingdom,fell on moving walkway in load area: fractured spine.,2010,73,Female,No,No,9,September,Low,Tuesday
+Universal,2015-03-30,Camp Jurassic,Islands of Adventure,arm injury,2015,5,Female,No,No,3,March,High,Monday
+Universal,2010-08-25,Camp Jurassic,Islands of Adventure,fractured ankle,2010,34,Female,No,No,8,August,High,Wednesday
+Universal,2007-07-17,Camp Jurassic,Islands of Adventure,Fractured arm.,2007,14,Female,No,No,7,July,High,Tuesday
+Universal,2017-03-01,Caro-Seuss-el,Islands of Adventure,pelvis pain,2017,68,Female,No,No,3,March,High,Wednesday
+Universal,2022-06-14,Caro-Seuss-el,Islands of Adventure,head pain,2022,33,Female,No,No,6,June,High,Tuesday
+Universal,2017-11-22,Caro-Seuss-el,Islands of Adventure,fainting/head injury,2017,59,Male,No,No,11,November,Low,Wednesday
+Universal,2011-07-25,Caro-Seuss-el,Islands of Adventure,general illness,2011,80,Male,No,No,7,July,High,Monday
+Universal,2001-12-29,Caro-Seuss-el,Islands of Adventure,broken arm,2001,52,Female,No,No,12,December,High,Saturday
+Universal,2012-02-12,Caro-Seuss-el,Islands of Adventure,head laceration,2012,62,Female,No,No,2,February,Low,Sunday
+Disney World,2012-07-05,Carousel of Progress,Magic Kingdom," tripped while approaching seat, fractured femur",2012,62,Female,No,No,7,July,High,Thursday
+Disney World,2013-07-24,Carousel of Progress,Magic Kingdom,guest with pre-existing condition had difficulty breathing,2013,1,Female,No,Yes,7,July,High,Wednesday
+Disney World,2019-09-22,Castaway Creek,Blizzard Beach,guest experienced sudden memory loss,2019,44,Female,No,No,9,September,Low,Sunday
+Disney World,2017-04-08,Castaway Creek,Blizzard Beach,guest with pre-existing condition experienced stroke-like symptoms,2017,57,Female,No,Yes,4,April,High,Saturday
+Disney World,2013-10-10,Castaway Creek,Blizzard Beach,fractured toe on outer wall,2013,68,Male,No,No,10,October,Low,Thursday
+Disney World,2011-07-16,Castaway Creek,Blizzard Beach,loss of consciousness and seizure like symptoms.,2011,18,Female,No,No,7,July,High,Saturday
+Disney World,2010-06-26,Castaway Creek,Blizzard Beach,Lost balance and fell; fractured tibia,2010,54,Female,No,No,6,June,High,Saturday
+Disney World,2004-02-16,Chair Lift,Blizzard Beach," injured ankle getting into raft, went to hospital",2004,41,Female,No,No,2,February,Low,Monday
+Disney World,2015-05-19,Chair Lift,Blizzard Beach," fell while exiting attraction, fractured hip",2015,65,Female,No,No,5,May,Medium,Tuesday
+Disney World,2004-07-12,Cross County Creek,Blizzard Beach,seizure,2004,33,Female,No,No,7,July,High,Monday
+Disney World,2008-01-01,Cross County Creek,Blizzard Beach,Guest jumped into creek and fractured ankle,2008,48,Male,No,No,1,January,Low,Tuesday
+Disney World,2007-05-02,Crush n' Gusher,Blizzard Beach,Hit head on bottom of catch pool,2007,17,Male,No,No,5,May,Medium,Wednesday
+Disney World,2012-05-25,Crush n' Gusher,Blizzard Beach,Chest pain,2012,45,Female,No,No,5,May,Medium,Friday
+Universal,2015-04-23,Despicable Me Minion Mayhem,Universal Studios,head and neck pain,2015,54,Female,No,No,4,April,High,Thursday
+Universal,2019-12-13,Despicable Me Minion Mayhem,Universal Studios,motion sickness,2019,44,Female,No,No,12,December,High,Friday
+Universal,2018-03-17,Despicable Me Minion Mayhem,Universal Studios,motion sickness,2018,7,Female,No,No,3,March,High,Saturday
+Universal,2015-10-13,Despicable Me Minion Mayhem,Universal Studios,dizziness,2015,66,Female,No,No,10,October,Low,Tuesday
+Disney World,2003-06-24,Dinosaur,Animal Kingdom,chest pain,2003,14,Female,No,No,6,June,High,Tuesday
+Disney World,2005-04-30,Dinosaur,Animal Kingdom," guest lost consciousness, parents indicated he had a pre-existing heart condition. Later passed away at hospital",2005,30,Male,Yes,Yes,4,April,High,Saturday
+Disney World,2003-07-17,Dinosaur,Animal Kingdom,passed out,2003,64,Female,No,No,7,July,High,Thursday
+Disney World,2022-01-17,Dinosaur,Animal Kingdom,guest with pre-existing condition felt dizzy after experiencing attraction,2022,65,Male,No,Yes,1,January,Low,Monday
+Disney World,2019-02-17,Dinosaur,Animal Kingdom,guest with pre-existing condition had chest pains and shortness of breath,2019,53,Male,No,Yes,2,February,Low,Sunday
+Disney World,2018-04-17,Dinosaur,Animal Kingdom,guest felt dizzy after riding attraction,2018,46,Female,No,No,4,April,High,Tuesday
+Disney World,2018-06-17,Dinosaur,Animal Kingdom,guest with pre-existing condition vomited after experiencing the attraction,2018,58,Male,No,Yes,6,June,High,Sunday
+Disney World,2015-12-23,Dinosaur,Animal Kingdom,seizure after departing from attraction,2015,24,Male,No,No,12,December,High,Wednesday
+Disney World,2014-03-15,Dinosaur,Animal Kingdom,chest pain,2014,73,Female,No,No,3,March,High,Saturday
+Disney World,2012-02-18,Dinosaur,Animal Kingdom,seizure after riding,2012,36,Female,No,No,2,February,Low,Saturday
+Disney World,2010-08-02,Dinosaur,Animal Kingdom,seizure,2010,45,Male,No,No,8,August,High,Monday
+Disney World,2009-12-10,Dinosaur,Animal Kingdom,seizure,2009,61,Female,No,No,12,December,High,Thursday
+Disney World,2008-07-25,Dinosaur,Animal Kingdom,guest with pre-existing heart condition reported chest pain,2008,73,Male,No,Yes,7,July,High,Friday
+Disney World,2010-01-02,Dinosaur,Animal Kingdom,chest pain: anxiety,2010,40,Female,No,No,1,January,Low,Saturday
+Universal,2013-10-29,Disaster,Universal Studios,presented with confusion,2013,61,Female,No,No,10,October,Low,Tuesday
+Disney World,2007-06-04,Downhill Double Dipper,Blizzard Beach,Back Pain.,2007,8,Female,No,No,6,June,High,Monday
+Disney World,2007-03-16,Downhill Double Dipper,Blizzard Beach,It is unclear whether the guest rode this attraction. Guest collapsed adjacent to catch pool; later passed away,2007,52,Male,Yes,No,3,March,High,Friday
+Disney World,2017-07-27,Downhill Double Dipper,Blizzard Beach,fractured arm,2017,45,Female,No,No,7,July,High,Thursday
+Disney World,2012-07-24,Downhill Double Dipper,Blizzard Beach,guest with pre-existing condition had a seizure,2012,18,Female,No,Yes,7,July,High,Tuesday
+Universal,2003-04-15,Dr Doom's Fearfall,Islands of Adventure,laceration/tear genitalia,2003,9,Female,No,No,4,April,High,Tuesday
+Universal,2019-07-12,Dr Doom's Fearfall,Islands of Adventure,motion sickness,2019,62,Female,No,No,7,July,High,Friday
+Universal,2006-04-15,Dragon Challenge,Islands of Adventure," Nausea, heartburn, chest pain, numb L arm",2006,47,Female,No,No,4,April,High,Saturday
+Universal,2016-07-31,Dragon Challenge,Islands of Adventure,dizziness,2016,52,Female,No,No,7,July,High,Sunday
+Universal,2016-04-25,Dragon Challenge,Islands of Adventure,neck pain,2016,46,Female,No,No,4,April,High,Monday
+Universal,2015-03-28,Dragon Challenge,Islands of Adventure,back pain,2015,41,Male,No,No,3,March,High,Saturday
+Universal,2015-09-30,Dragon Challenge,Islands of Adventure,unconscious,2015,59,Male,No,No,9,September,Low,Wednesday
+Universal,2013-10-18,Dragon Challenge,Islands of Adventure,presented with confusion,2013,67,Female,No,No,10,October,Low,Friday
+Universal,2012-07-11,Dragon Challenge,Islands of Adventure,lowered level of consciousness,2012,17,Female,No,No,7,July,High,Wednesday
+Universal,2011-07-31,Dragon Challenge,Islands of Adventure,eye discomfort,2011,48,Male,No,No,7,July,High,Sunday
+Universal,2009-12-09,Dragon Challenge,Islands of Adventure,vomiting,2009,29,Female,No,No,12,December,High,Wednesday
+Universal,2008-08-09,Dragon Challenge,Islands of Adventure," chest pain,  shortness of breath and nausea",2008,46,Male,No,No,8,August,High,Saturday
+Universal,2007-08-11,Dragon Challenge,Islands of Adventure,Upper back pain.,2007,16,Male,No,No,8,August,High,Saturday
+Universal,2014-10-17,Dudley Do Rights Ripsaw Falls,Islands of Adventure,seizure (pre-existing condition),2014,49,Female,No,Yes,10,October,Low,Friday
+Universal,2002-10-02,Dudley Do Rights Ripsaw Falls,Islands of Adventure,complained of lower back pain.,2002,55,Female,No,No,10,October,Low,Wednesday
+Universal,2002-11-10,Dudley Do Rights Ripsaw Falls,Islands of Adventure,complained of neck pain.,2002,62,Male,No,No,11,November,Low,Sunday
+Universal,2002-07-11,Dudley Do Rights Ripsaw Falls,Islands of Adventure,fractured back.,2002,36,Female,No,No,7,July,High,Thursday
+Disney World,2006-02-22,Dumbo,Magic Kingdom,Came off ride not feeling well.,2006,40,Male,No,No,2,February,Low,Wednesday
+Universal,2019-01-31,E.T Adventure,Universal Studios,foot pain,2019,11,Male,No,No,1,January,Low,Thursday
+Universal,2015-12-09,E.T Adventure,Universal Studios,motion sickness,2015,21,Female,No,No,12,December,High,Wednesday
+Universal,2014-04-20,E.T Adventure,Universal Studios,weakness,2014,61,Male,No,No,4,April,High,Sunday
+Universal,2009-03-13,E.T Adventure,Universal Studios,Left arm numbness,2009,68,Male,No,No,3,March,High,Friday
+Universal,2021-03-13,E.T Adventure,Universal Studios,motion sickness,2021,71,Female,No,No,3,March,High,Saturday
+Universal,2015-01-18,E.T Adventure,Universal Studios,back pain (pre-existing condition),2015,44,Female,No,Yes,1,January,Low,Sunday
+Universal,2002-03-22,E.T Adventure,Universal Studios,injured right foot.,2002,13,Male,No,No,3,March,High,Friday
+Disney World,2005-08-03,Ellen's Energy Adventure,Epcot,felt ill.,2005,73,Male,No,No,8,August,High,Wednesday
+Disney World,2005-03-13,Ellen's Energy Adventure,Epcot,not feeling well on ride.,2005,52,Male,No,No,3,March,High,Sunday
+Disney World,2016-03-07,Ellen's Energy Adventure,Epcot," guest felt ill, dizzy and disoriented",2016,67,Male,No,No,3,March,High,Monday
+Disney World,2012-10-07,Ellen's Energy Adventure,Epcot,chest pain,2012,88,Female,No,No,10,October,Low,Sunday
+Disney World,2012-12-30,Ellen's Energy Adventure,Epcot," loss of consciousness while on ride,  pre-existing condition",2012,76,Male,No,Yes,12,December,High,Sunday
+Disney World,2011-03-17,Ellen's Energy Adventure,Epcot,Report of possible heart attack for guest with history of heart condition,2011,77,Male,No,Yes,3,March,High,Thursday
+Disney World,2003-03-28,Ellen's Energy Adventure,Epcot,heart attack later died.,2003,81,Female,Yes,No,3,March,High,Friday
+Disney World,2009-06-23,Ellen's Energy Adventure,Epcot,Felt dizzy.,2009,57,Male,No,No,6,June,High,Tuesday
+Disney World,2007-03-03,Expedition Everest,Animal Kingdom,Seizure.,2007,27,Male,No,No,3,March,High,Saturday
+Disney World,2006-09-20,Expedition Everest,Animal Kingdom,Felt disoriented and sick.,2006,59,Female,No,No,9,September,Low,Wednesday
+Disney World,2006-06-21,Expedition Everest,Animal Kingdom,Shortness of breath and chest pains.,2006,60,Male,No,No,6,June,High,Wednesday
+Disney World,2010-06-04,Expedition Everest,Animal Kingdom,felt dizzy and ill,2010,74,Male,No,No,6,June,High,Friday
+Disney World,2019-07-05,Expedition Everest,Animal Kingdom,seizure after experiencing the attraction,2019,41,Female,No,No,7,July,High,Friday
+Disney World,2019-09-22,Expedition Everest,Animal Kingdom,guest felt ill; migraine and vomiting,2019,45,Female,No,No,9,September,Low,Sunday
+Disney World,2019-05-11,Expedition Everest,Animal Kingdom,guest with pre-existing condition became ill after riding attraction,2019,56,Male,No,Yes,5,May,Medium,Saturday
+Disney World,2019-06-03,Expedition Everest,Animal Kingdom,guest became dizzy and nauseous after riding the attraction,2019,70,Male,No,No,6,June,High,Monday
+Disney World,2018-05-19,Expedition Everest,Animal Kingdom,guest experienced a seizure after riding attraction,2018,26,Male,No,No,5,May,Medium,Saturday
+Disney World,2018-05-27,Expedition Everest,Animal Kingdom,guest with history of dislocating kneecap had reoccurrence,2018,22,Female,No,Yes,5,May,Medium,Sunday
+Disney World,2017-08-07,Expedition Everest,Animal Kingdom,guest with pre-existing condition had nausea and vomited after the ride,2017,58,Male,No,Yes,8,August,High,Monday
+Disney World,2017-04-20,Expedition Everest,Animal Kingdom,felt something in eye irritation,2017,34,Male,No,No,4,April,High,Thursday
+Disney World,2017-02-12,Expedition Everest,Animal Kingdom,reported being struck on head; headache; dizziness,2017,30,Male,No,No,2,February,Low,Sunday
+Disney World,2015-04-18,Expedition Everest,Animal Kingdom,seizure after exiting.,2015,46,Male,No,No,4,April,High,Saturday
+Disney World,2015-02-09,Expedition Everest,Animal Kingdom," guest who felt ill at times earlier in the day, felt dizzy, shaky and numbness after attraction",2015,36,Female,No,No,2,February,Low,Monday
+Disney World,2015-03-19,Expedition Everest,Animal Kingdom,temporary memory loss after exiting ride,2015,72,Female,No,No,3,March,High,Thursday
+Disney World,2014-08-04,Expedition Everest,Animal Kingdom,Guest felt lightheaded & fell injuring right knee & arm; brief loss of consciousness.,2014,58,Female,No,No,8,August,High,Monday
+Disney World,2014-01-06,Expedition Everest,Animal Kingdom," nausea and dizziness,  briefly lost consciousness after ride",2014,54,Male,No,No,1,January,Low,Monday
+Disney World,2014-01-16,Expedition Everest,Animal Kingdom,guest with pre-existing condition felt light headed after exiting ride,2014,65,Male,No,Yes,1,January,Low,Thursday
+Disney World,2013-12-28,Expedition Everest,Animal Kingdom,guest felt ill & disoriented with slurred speech,2013,29,Female,No,No,12,December,High,Saturday
+Disney World,2011-12-29,Expedition Everest,Animal Kingdom," guest not feeling well riding attraction, blocked arteries",2011,71,Male,No,No,12,December,High,Thursday
+Disney World,2011-07-10,Expedition Everest,Animal Kingdom," history of heart condition, felt ill",2011,61,Male,No,Yes,7,July,High,Sunday
+Disney World,2011-05-18,Expedition Everest,Animal Kingdom,felt dizzy and ill,2011,33,Female,No,No,5,May,Medium,Wednesday
+Disney World,2010-08-08,Expedition Everest,Animal Kingdom,chest pain,2010,51,Male,No,No,8,August,High,Sunday
+Disney World,2010-09-23,Expedition Everest,Animal Kingdom,felt dizzy and ill,2010,72,Female,No,No,9,September,Low,Thursday
+Disney World,2010-05-18,Expedition Everest,Animal Kingdom," felt ill, difficulty breathing; later had heart attack",2010,54,Male,No,No,5,May,Medium,Tuesday
+Disney World,2009-10-20,Expedition Everest,Animal Kingdom,seizure,2009,27,Male,No,No,10,October,Low,Tuesday
+Disney World,2009-08-02,Expedition Everest,Animal Kingdom,felt ill,2009,66,Male,No,No,8,August,High,Sunday
+Disney World,2009-05-11,Expedition Everest,Animal Kingdom,felt lightheaded and weak,2009,77,Male,No,No,5,May,Medium,Monday
+Disney World,2008-03-29,Expedition Everest,Animal Kingdom,stomach pain,2008,72,Male,No,No,3,March,High,Saturday
+Disney World,2008-05-17,Expedition Everest,Animal Kingdom,felt hot & dizzy,2008,57,Male,No,No,5,May,Medium,Saturday
+Disney World,2008-06-16,Expedition Everest,Animal Kingdom,felt ill before & after riding ride; trouble breathing & blurred vision,2008,78,Male,No,No,6,June,High,Monday
+Disney World,2008-03-05,Expedition Everest,Animal Kingdom,Complained of dizziness and loss of memory after riding,2008,72,Female,No,No,3,March,High,Wednesday
+Disney World,2007-12-18,Expedition Everest,Animal Kingdom,Guest with history of heart condition was unconscious at unload and passed away,2007,44,Male,Yes,Yes,12,December,High,Tuesday
+Disney World,2021-10-12,Expedition Everest,Animal Kingdom,guest experienced cardiac symptoms after exiting the attraction,2021,57,Female,No,No,10,October,Low,Tuesday
+Disney World,2021-07-14,Expedition Everest,Animal Kingdom,guest felt nauseous after experiencing the attraction,2021,72,Male,No,No,7,July,High,Wednesday
+Disney World,2015-10-25,Expedition Everest,Animal Kingdom,guest with pre-existing condition felt chest pain and dizziness after riding.,2015,69,Male,No,Yes,10,October,Low,Sunday
+Disney World,2014-06-21,Expedition Everest,Animal Kingdom," nausea, dizziness and shortness of breath",2014,51,Female,No,No,6,June,High,Saturday
+Universal,2021-12-02,Fast & Furious - Supercharged,Universal Studios,seizure,2021,27,Female,No,No,12,December,High,Thursday
+Universal,2019-04-24,Fast & Furious - Supercharged,Universal Studios,fainting/chest pain (pre-existing condition),2019,76,Female,No,Yes,4,April,High,Wednesday
+Universal,2019-06-06,Fast & Furious - Supercharged,Universal Studios,fainting,2019,67,Female,No,No,6,June,High,Thursday
+Universal,2018-12-26,Fievel's Playground,Universal Studios,ankle pain,2018,38,Female,No,No,12,December,High,Wednesday
+Universal,2016-06-16,Fievel's Playground,Universal Studios,arm pain,2016,3,Male,No,No,6,June,High,Thursday
+Universal,2016-01-01,Flight of the Hippogriff,Islands of Adventure,weakness (pre-existing condition),2016,43,Female,No,Yes,1,January,Low,Friday
+Disney World,2017-02-17,Frozen Ever After,Epcot,fell entering boat; fractured leg,2017,74,Female,No,No,2,February,Low,Friday
+Disney World,2015-07-21,Gran Fiesta Tour Attraction,Epcot,injured back,2015,46,Female,No,No,7,July,High,Tuesday
+Disney World,2012-11-12,Gran Fiesta Tour Attraction,Epcot,lost balance & fell from seat,2012,70,Female,No,No,11,November,Low,Monday
+Disney World,2007-09-03,Gran Fiesta Tour Attraction,Epcot,Lost consciousness while on ride.,2007,56,Male,No,No,9,September,Low,Monday
+Disney World,2021-02-15,Gran Fiesta Tour Attraction,Epcot,guest injured her ankle,2021,69,Female,No,No,2,February,Low,Monday
+Disney World,2004-07-22,Great Movie Ride,Hollywood Studios,chest pains,2004,64,Female,No,No,7,July,High,Thursday
+Disney World,2016-01-01,Great Movie Ride,Hollywood Studios,guest with history of motion sickness became temporarily unconscious while on the attraction.,2016,80,Male,No,Yes,1,January,Low,Friday
+Disney World,2016-03-13,Great Movie Ride,Hollywood Studios,guest with preexisting condition had numbness and felt dizzy.,2016,41,Male,No,Yes,3,March,High,Sunday
+Disney World,2015-01-20,Great Movie Ride,Hollywood Studios,guest with pre-existing condition had brief loss of consciousness,2015,57,Male,No,Yes,1,January,Low,Tuesday
+Disney World,2008-05-19,Great Movie Ride,Hollywood Studios," felt ill, possible heart attack",2008,54,Male,No,No,5,May,Medium,Monday
+Disney World,2014-08-18,Great Movie Ride,Hollywood Studios,chest pain and loss of consciousness.,2014,71,Male,No,No,8,August,High,Monday
+Universal,2020-12-04,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,seizure,2020,25,Female,No,No,12,December,High,Friday
+Universal,2021-07-07,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,back pain,2021,7,Female,No,No,7,July,High,Wednesday
+Universal,2021-06-09,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,headache,2021,59,Female,No,No,6,June,High,Wednesday
+Universal,2017-10-15,Halloween Horror Nights,Universal Studios,chest pain,2017,42,Male,No,No,10,October,Low,Sunday
+Universal,2015-10-03,Harry Potter and the Escape from Gringotts,Universal Studios," anxious, difficulty breathing",2015,17,Male,No,No,10,October,Low,Saturday
+Universal,2022-07-26,Harry Potter and the Escape from Gringotts,Universal Studios,abdominal pain,2022,36,Male,No,No,7,July,High,Tuesday
+Universal,2017-04-28,Harry Potter and the Escape from Gringotts,Universal Studios,motion sickness,2017,18,Female,No,No,4,April,High,Friday
+Universal,2016-10-20,Harry Potter and the Escape from Gringotts,Universal Studios,seizure (pre-existing condition),2016,44,Female,No,Yes,10,October,Low,Thursday
+Universal,2011-07-19,Harry Potter and the Forbidden Journey,Islands of Adventure,vertigo,2011,52,Male,No,No,7,July,High,Tuesday
+Universal,2015-04-16,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2015,70,Female,No,No,4,April,High,Thursday
+Universal,2015-01-17,Harry Potter and the Forbidden Journey,Islands of Adventure,chest discomfort,2015,69,Male,No,No,1,January,Low,Saturday
+Universal,2015-03-15,Harry Potter and the Forbidden Journey,Islands of Adventure,difficult moving extremities (pre-existing condition),2015,51,Male,No,Yes,3,March,High,Sunday
+Universal,2015-03-24,Harry Potter and the Forbidden Journey,Islands of Adventure,altered mental status,2015,76,Female,No,No,3,March,High,Tuesday
+Universal,2014-10-01,Harry Potter and the Forbidden Journey,Islands of Adventure,nausea (pre-existing condition),2014,22,Male,No,Yes,10,October,Low,Wednesday
+Universal,2013-11-13,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2013,51,Male,No,No,11,November,Low,Wednesday
+Universal,2013-12-07,Harry Potter and the Forbidden Journey,Islands of Adventure,fainting,2013,40,Male,No,No,12,December,High,Saturday
+Universal,2013-12-16,Harry Potter and the Forbidden Journey,Islands of Adventure,chest pain,2013,70,Male,No,No,12,December,High,Monday
+Universal,2013-07-07,Harry Potter and the Forbidden Journey,Islands of Adventure,hip & pelvis pain,2013,66,Female,No,No,7,July,High,Sunday
+Universal,2013-09-13,Harry Potter and the Forbidden Journey,Islands of Adventure,seizure (pre-existing condition),2013,19,Male,No,Yes,9,September,Low,Friday
+Universal,2013-05-07,Harry Potter and the Forbidden Journey,Islands of Adventure,chest pain,2013,57,Male,No,No,5,May,Medium,Tuesday
+Universal,2013-05-15,Harry Potter and the Forbidden Journey,Islands of Adventure,headache,2013,61,Female,No,No,5,May,Medium,Wednesday
+Universal,2013-01-02,Harry Potter and the Forbidden Journey,Islands of Adventure,dizziness,2013,69,Female,No,No,1,January,Low,Wednesday
+Universal,2013-01-22,Harry Potter and the Forbidden Journey,Islands of Adventure,syncope,2013,45,Female,No,No,1,January,Low,Tuesday
+Universal,2012-04-02,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2012,67,Female,No,No,4,April,High,Monday
+Universal,2012-01-11,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2012,54,Male,No,No,1,January,Low,Wednesday
+Universal,2012-03-03,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2012,71,Female,No,No,3,March,High,Saturday
+Universal,2012-03-31,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2012,71,Male,No,No,3,March,High,Saturday
+Universal,2022-09-09,Harry Potter and the Forbidden Journey,Islands of Adventure,syncope,2022,28,Male,No,No,9,September,Low,Friday
+Universal,2022-01-13,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2022,66,Male,No,No,1,January,Low,Thursday
+Universal,2022-03-15,Harry Potter and the Forbidden Journey,Islands of Adventure,hip pain,2022,77,Female,No,No,3,March,High,Tuesday
+Universal,2019-11-03,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2019,57,Female,No,No,11,November,Low,Sunday
+Universal,2019-12-26,Harry Potter and the Forbidden Journey,Universal Studios,knee injury,2019,78,Male,No,No,12,December,High,Thursday
+Universal,2018-10-10,Harry Potter and the Forbidden Journey,Islands of Adventure,dizziness,2018,58,Female,No,No,10,October,Low,Wednesday
+Universal,2018-09-03,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2018,39,Female,No,No,9,September,Low,Monday
+Universal,2018-01-06,Harry Potter and the Forbidden Journey,Islands of Adventure,dizziness and weakness,2018,52,Female,No,No,1,January,Low,Saturday
+Universal,2017-12-27,Harry Potter and the Forbidden Journey,Islands of Adventure,altered mental status,2017,61,Male,No,No,12,December,High,Wednesday
+Universal,2017-08-04,Harry Potter and the Forbidden Journey,Islands of Adventure,fainting,2017,68,Male,No,No,8,August,High,Friday
+Universal,2017-04-16,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2017,81,Female,No,No,4,April,High,Sunday
+Universal,2017-01-05,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2017,57,Male,No,No,1,January,Low,Thursday
+Universal,2017-03-07,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2017,70,Female,No,No,3,March,High,Tuesday
+Universal,2016-10-01,Harry Potter and the Forbidden Journey,Islands of Adventure,seizure (pre-existing condition),2016,28,Female,No,Yes,10,October,Low,Saturday
+Universal,2016-10-16,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2016,43,Male,No,No,10,October,Low,Sunday
+Universal,2016-04-02,Harry Potter and the Forbidden Journey,Islands of Adventure,fainting,2016,50,Female,No,No,4,April,High,Saturday
+Universal,2016-05-23,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2016,59,Male,No,No,5,May,Medium,Monday
+Universal,2015-12-24,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2015,50,Male,No,No,12,December,High,Thursday
+Universal,2015-12-24,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2015,55,Male,No,No,12,December,High,Thursday
+Universal,2015-08-26,Harry Potter and the Forbidden Journey,Islands of Adventure,motion sickness,2015,43,Female,No,No,8,August,High,Wednesday
+Universal,2014-04-05,Harry Potter and the Forbidden Journey,Islands of Adventure,head and neck pain,2014,43,Female,No,No,4,April,High,Saturday
+Universal,2014-01-01,Harry Potter and the Forbidden Journey,Islands of Adventure,upper leg pain,2014,79,Female,No,No,1,January,Low,Wednesday
+Universal,2014-01-20,Harry Potter and the Forbidden Journey,Islands of Adventure,lowered level of consciousness,2014,47,Male,No,No,1,January,Low,Monday
+Universal,2011-01-29,Harry Potter and the Forbidden Journey,Islands of Adventure,syncope,2011,60,Male,No,No,1,January,Low,Saturday
+Universal,2011-02-28,Harry Potter and the Forbidden Journey,Islands of Adventure,Chest pain,2011,57,Male,No,No,2,February,Low,Monday
+Disney World,2007-02-10,Haunted Mansion,Magic Kingdom,fell exiting attraction,2007,89,Female,No,No,2,February,Low,Saturday
+Disney World,2021-04-12,Haunted Mansion,Magic Kingdom,guest fell and fractured wrist exiting the attraction,2021,66,Female,No,No,4,April,High,Monday
+Disney World,2016-05-16,Haunted Mansion,Magic Kingdom,guest with preexisting condition became dizzy.,2016,70,Female,No,Yes,5,May,Medium,Monday
+Disney World,2015-08-20,Haunted Mansion,Magic Kingdom,became disoriented after exiting ride,2015,68,Female,No,No,8,August,High,Thursday
+Disney World,2013-06-10,Haunted Mansion,Magic Kingdom,guest with pre-existing condition suffered from chest pain,2013,62,Male,No,Yes,6,June,High,Monday
+Disney World,2011-08-09,Haunted Mansion,Magic Kingdom," fell on moving walkway while loading, fractured leg",2011,66,Female,No,No,8,August,High,Tuesday
+Disney World,2009-01-31,Haunted Mansion,Magic Kingdom,chest pain,2009,56,Male,No,No,1,January,Low,Saturday
+Disney World,2008-07-29,Haunted Mansion,Magic Kingdom,fell after exiting vehicle and fractured shoulder,2008,68,Female,No,No,7,July,High,Tuesday
+Disney World,2008-06-19,Haunted Mansion,Magic Kingdom,hit right knee getting into vehicle,2008,57,Female,No,No,6,June,High,Thursday
+Disney World,2017-12-30,Haunted Mansion,Magic Kingdom,guest with pre-existing condition experienced chest pain,2017,66,Male,No,Yes,12,December,High,Saturday
+Disney World,2013-12-31,Haunted Mansion,Magic Kingdom,guest with preexisting condition felt chest pain prior to and after riding,2013,35,Male,No,Yes,12,December,High,Tuesday
+Disney World,2013-03-03,Haunted Mansion,Magic Kingdom," fell stepping onto moving walkway, fractured leg and dislocated ankle",2013,79,Female,No,No,3,March,High,Sunday
+Universal,2012-09-13,Hollywood Rip Ride Rocket,Universal Studios,chest pain,2012,40,Male,No,No,9,September,Low,Thursday
+Universal,2022-08-31,Hollywood Rip Ride Rocket,Universal Studios,headache,2022,67,Female,No,No,8,August,High,Wednesday
+Universal,2018-11-21,Hollywood Rip Ride Rocket,Universal Studios,head pain,2018,34,Female,No,No,11,November,Low,Wednesday
+Universal,2018-12-13,Hollywood Rip Ride Rocket,Universal Studios,nausea,2018,35,Female,No,No,12,December,High,Thursday
+Universal,2015-11-10,Hollywood Rip Ride Rocket,Universal Studios,neck pain,2015,35,Female,No,No,11,November,Low,Tuesday
+Universal,2014-10-16,Hollywood Rip Ride Rocket,Universal Studios,neck pain,2014,36,Female,No,No,10,October,Low,Thursday
+Universal,2014-08-06,Hollywood Rip Ride Rocket,Universal Studios,motion sickness,2014,33,Male,No,No,8,August,High,Wednesday
+Universal,2011-10-03,Hollywood Rip Ride Rocket,Universal Studios,motion sickness,2011,43,Female,No,No,10,October,Low,Monday
+Universal,2016-03-04,Hollywood Rip Ride Rocket,Universal Studios,motion sickness,2016,57,Female,No,No,3,March,High,Friday
+Universal,2010-05-22,Hollywood Rip Ride Rocket,Universal Studios,back pain,2010,45,Female,No,No,5,May,Medium,Saturday
+Universal,2010-04-24,Hollywood Rip Ride Rocket,Universal Studios,back pain,2010,36,Male,No,No,4,April,High,Saturday
+Universal,2009-10-31,Hollywood Rip Ride Rocket,Universal Studios,chest pain,2009,40,Male,No,No,10,October,Low,Saturday
+Universal,2016-09-01,Hollywood Rip Ride Rocket,Universal Studios,back pain,2016,49,Male,No,No,9,September,Low,Thursday
+Universal,2013-06-23,Hollywood Rip Ride Rocket,Universal Studios,chest pain,2013,41,Male,No,No,6,June,High,Sunday
+Disney World,2008-05-26,Honey I Shrunk The Kids,Hollywood Studios,went down slide & fractured ankle,2008,47,Female,No,No,5,May,Medium,Monday
+Disney World,2005-11-25,Honey I Shrunk The Kids,Hollywood Studios,fell and hurt wrist.,2005,12,Male,No,No,11,November,Low,Friday
+Disney World,2011-03-24,Honey I Shrunk The Kids,Hollywood Studios,fell; hit head; back pain,2011,8,Male,No,No,3,March,High,Thursday
+Disney World,2015-10-03,Humunga Kowabunga,Typhoon Lagoon,laceration while riding,2015,27,Female,No,No,10,October,Low,Saturday
+Disney World,2015-09-12,Humunga Kowabunga,Typhoon Lagoon,fractured hip,2015,10,Male,No,No,9,September,Low,Saturday
+Disney World,2013-07-24,Humunga Kowabunga,Typhoon Lagoon,laceration,2013,43,Female,No,No,7,July,High,Wednesday
+Universal,2019-04-20,If I Ran the Zoo,Islands of Adventure,head pain,2019,44,Female,No,No,4,April,High,Saturday
+Disney World,2014-12-25,It's A Small World,Magic Kingdom,guest with preexisting health condition lost consciousness after riding; later passed away,2014,22,Female,Yes,Yes,12,December,High,Thursday
+Disney World,2008-11-21,It's A Small World,Magic Kingdom,Seizure,2008,55,Male,No,No,11,November,Low,Friday
+Disney World,2008-07-06,It's A Small World,Magic Kingdom,difficulty breathing,2008,55,Male,No,No,7,July,High,Sunday
+Disney World,2021-09-22,Journey info Imagination with Figment,Epcot,guest fell exiting the attraction striking her nose,2021,70,Female,No,No,9,September,Low,Wednesday
+Disney World,2017-12-16,Journey info Imagination with Figment,Epcot,guest tripped and fractured elbow,2017,65,Female,No,No,12,December,High,Saturday
+Disney World,2022-04-21,Jungle Cruise,Magic Kingdom,guest with pre-existing condition had chest pain after experiencing the attraction,2022,35,Male,No,Yes,4,April,High,Thursday
+Disney World,2020-03-14,Jungle Cruise,Magic Kingdom,guest fractured leg stepping into boat,2020,74,Female,No,No,3,March,High,Saturday
+Disney World,2017-08-18,Jungle Cruise,Magic Kingdom,guest with pre-existing condition had a seizure,2017,5,Male,No,Yes,8,August,High,Friday
+Disney World,2015-09-01,Jungle Cruise,Magic Kingdom,fractured finger,2015,4,Female,No,No,9,September,Low,Tuesday
+Disney World,2012-11-13,Jungle Cruise,Magic Kingdom," guest fell while stepping into boat, fractured hip",2012,69,Female,No,No,11,November,Low,Tuesday
+Disney World,2012-03-23,Jungle Cruise,Magic Kingdom,fell while stepping into boat & fractured fibula. Passed away of pulmonary embolism on 4/7/12.,2012,40,Female,Yes,No,3,March,High,Friday
+Universal,2019-02-15,Jurassic Park River Adventure,Islands of Adventure,foot pain,2019,27,Female,No,No,2,February,Low,Friday
+Universal,2018-05-08,Jurassic Park River Adventure,Islands of Adventure,shoulder & wrist pain,2018,76,Female,No,No,5,May,Medium,Tuesday
+Universal,2022-07-24,Jurassic World VelociCoaster,Islands of Adventure,neck pain,2022,38,Female,No,No,7,July,High,Sunday
+Universal,2017-05-27,Kala Serpentine Body Slide,Volcano Bay,back pain,2017,45,Male,No,No,5,May,Medium,Saturday
+Disney World,2006-06-13,Kali River Rapids,Animal Kingdom,Guest who was recently released from hospital and recovering from pneumonia fainted and fell on dock,2006,12,Male,No,No,6,June,High,Tuesday
+Disney World,2005-06-02,Kali River Rapids,Animal Kingdom,guest fell from raft into flume at load area and hit head,2005,45,Female,No,No,6,June,High,Thursday
+Disney World,2014-12-05,Kali River Rapids,Animal Kingdom,guest with preexisting condition had seizure,2014,26,Male,No,Yes,12,December,High,Friday
+Disney World,2013-09-29,Kali River Rapids,Animal Kingdom,seizure,2013,39,Male,No,No,9,September,Low,Sunday
+Disney World,2013-05-17,Kali River Rapids,Animal Kingdom,guest with pre-existing condition suffered a seizure,2013,36,Female,No,Yes,5,May,Medium,Friday
+Disney World,2010-03-01,Kali River Rapids,Animal Kingdom,preexisting heart condition felt numbness on right side of body,2010,47,Male,No,Yes,3,March,High,Monday
+Universal,2022-02-01,Kang & Kodos Twirl n' Hurl,Universal Studios,abdominal pain (pre-existing condition),2022,21,Female,No,Yes,2,February,Low,Tuesday
+Disney World,2007-07-16,Kilimanjaro Safaris Expedition,Animal Kingdom," Jumped out of vehicle, broke left ankle",2007,42,Male,No,No,7,July,High,Monday
+Disney World,2010-04-06,Kilimanjaro Safaris Expedition,Animal Kingdom,seizure,2010,72,Female,No,No,4,April,High,Tuesday
+Disney World,2010-05-23,Kilimanjaro Safaris Expedition,Animal Kingdom,chest pain,2010,65,Male,No,No,5,May,Medium,Sunday
+Disney World,2016-12-24,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with pre-existing condition felt numbness after riding,2016,67,Male,No,Yes,12,December,High,Saturday
+Disney World,2017-12-29,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with pre-existing condition experienced chest pain,2017,70,Female,No,Yes,12,December,High,Friday
+Disney World,2014-05-21,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with pre-existing condition felt tightness in chest,2014,68,Female,No,Yes,5,May,Medium,Wednesday
+Disney World,2012-03-10,Kilimanjaro Safaris Expedition,Animal Kingdom,guest w/ pre-existing health condition felt nauseated & had chest pain,2012,75,Female,No,Yes,3,March,High,Saturday
+Disney World,2008-12-22,Kilimanjaro Safaris Expedition,Animal Kingdom,seizure,2008,51,Female,No,No,12,December,High,Monday
+Disney World,2018-04-25,Kilimanjaro Safaris Expedition,Animal Kingdom,guest went into labor after riding attraction,2018,27,Female,No,No,4,April,High,Wednesday
+Disney World,2018-06-07,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with pre-existing conditions suffered nausea and vomiting on ride,2018,62,Female,No,Yes,6,June,High,Thursday
+Disney World,2018-01-17,Kilimanjaro Safaris Expedition,Animal Kingdom,guest experienced chest pain after riding attraction,2018,71,Male,No,No,1,January,Low,Wednesday
+Disney World,2017-06-10,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with pre-existing condition had a seizure,2017,19,Female,No,Yes,6,June,High,Saturday
+Disney World,2016-06-15,Kilimanjaro Safaris Expedition,Animal Kingdom,guest with preexisting condition felt ill; neck discomfort,2016,70,Male,No,Yes,6,June,High,Wednesday
+Disney World,2015-09-03,Kilimanjaro Safaris Expedition,Animal Kingdom,developed rash before boarding; rash later worsened; temporarily passed out while on ride,2015,1,Male,No,No,9,September,Low,Thursday
+Disney World,2015-06-24,Kilimanjaro Safaris Expedition,Animal Kingdom," felt dizzy , mini stroke",2015,51,Female,No,No,6,June,High,Wednesday
+Disney World,2022-04-04,Kilimanjaro Safaris Expedition,Animal Kingdom,guest had trouble breathing and numbness to her face after riding the attraction,2022,57,Female,No,No,4,April,High,Monday
+Disney World,2022-06-24,Kilimanjaro Safaris Expedition,Animal Kingdom,guest felt dizzy and weak after riding the attraction,2022,70,Female,No,No,6,June,High,Friday
+Disney World,2022-06-27,Kilimanjaro Safaris Expedition,Animal Kingdom,guest lost consciousness while on the attraction,2022,44,Male,No,No,6,June,High,Monday
+Disney World,2021-10-13,Kilimanjaro Safaris Expedition,Animal Kingdom,guest passed out while experiencing the attraction,2021,82,Male,No,No,10,October,Low,Wednesday
+Disney World,2021-03-13,Kilimanjaro Safaris Expedition,Animal Kingdom,guest became ill while riding the attraction,2021,72,Female,No,No,3,March,High,Saturday
+Disney World,2016-02-12,Kilimanjaro Safaris Expedition,Animal Kingdom,guest became disoriented during experience.,2016,73,Female,No,No,2,February,Low,Friday
+Universal,2018-11-12,Ko'okiri Body Plunge,Volcano Bay,foot pain,2018,11,Female,No,No,11,November,Low,Monday
+Universal,2019-06-14,Kopiko Wai Winding River,Volcano Bay,knee pain,2019,64,Female,No,No,6,June,High,Friday
+Universal,2019-03-24,Kopiko Wai Winding River,Volcano Bay,fainting,2019,10,Male,No,No,3,March,High,Sunday
+Universal,2022-07-17,Kopiko Wai Winding River,Volcano Bay,chest pain,2022,51,Male,No,No,7,July,High,Sunday
+Disney World,2015-07-21,Liberty Riverboat,Magic Kingdom,passed out and struck head,2015,80,Female,No,No,7,July,High,Tuesday
+Disney World,2022-05-29,Living with the Land,Epcot,guest with pre-existing condition had a cardiac event while exiting the attraction,2022,66,Female,No,Yes,5,May,Medium,Sunday
+Disney World,2006-06-05,Mad Tea Party,Magic Kingdom,Missed step and fell,2006,62,Female,No,No,6,June,High,Monday
+Disney World,2018-04-18,Mad Tea Party,Magic Kingdom,guest with pre-existing illness felt ill after riding attraction,2018,74,Female,No,No,4,April,High,Wednesday
+Disney World,2018-05-23,Mad Tea Party,Magic Kingdom,guest with pre-existing condition was dizzy after riding attraction,2018,68,Female,No,Yes,5,May,Medium,Wednesday
+Disney World,2016-12-08,Mad Tea Party,Magic Kingdom,fell and fractured ankle,2016,64,Female,No,No,12,December,High,Thursday
+Disney World,2014-12-18,Mad Tea Party,Magic Kingdom,tripped while exiting ride vehicle; fractured shoulder,2014,49,Male,No,No,12,December,High,Thursday
+Disney World,2013-10-13,Mad Tea Party,Magic Kingdom," fell while exiting, fractured wrist",2013,75,Female,No,No,10,October,Low,Sunday
+Disney World,2010-04-13,Mad Tea Party,Magic Kingdom,fell exiting vehicle; fractured hip,2010,68,Female,No,No,4,April,High,Tuesday
+Disney World,2010-05-24,Mad Tea Party,Magic Kingdom," fell exiting vehicle, left arm fracture",2010,61,Female,No,No,5,May,Medium,Monday
+Disney World,2008-07-15,Mad Tea Party,Magic Kingdom,felt dizzy and sick,2008,56,Male,No,No,7,July,High,Tuesday
+Disney World,2008-02-02,Mad Tea Party,Magic Kingdom," Fell exiting ride, fractured hip",2008,72,Female,No,No,2,February,Low,Saturday
+Disney World,2012-03-28,Maelstrom,Epcot,seizure,2012,41,Male,No,No,3,March,High,Wednesday
+Disney World,2006-11-15,Mayday Falls,Typhoon Lagoon,Broken foot.,2006,74,Male,No,No,11,November,Low,Wednesday
+Disney World,2018-05-03,Mayday Falls,Typhoon Lagoon,guest fractured ankle going down slide,2018,25,Male,No,No,5,May,Medium,Thursday
+Disney World,2015-05-15,Mayday Falls,Typhoon Lagoon,fractured ankle,2015,41,Female,No,No,5,May,Medium,Friday
+Disney World,2014-07-18,Mayday Falls,Typhoon Lagoon,fractured ankle,2014,42,Female,No,No,7,July,High,Friday
+Disney World,2014-06-23,Mayday Falls,Typhoon Lagoon,fractured leg,2014,44,Male,No,No,6,June,High,Monday
+Disney World,2012-06-29,Mayday Falls,Typhoon Lagoon,Guest with preexisting condition felt chest pain after riding,2012,48,Male,No,Yes,6,June,High,Friday
+Disney World,2011-07-16,Mayday Falls,Typhoon Lagoon,injured ankle,2011,42,Female,No,No,7,July,High,Saturday
+Disney World,2004-07-19,Meltaway Bay,Blizzard Beach,seizure,2004,11,Male,No,No,7,July,High,Monday
+Disney World,2018-06-10,Meltaway Bay,Blizzard Beach,guest with pre-existing heart condition had a heart attack and passed away,2018,70,Male,Yes,Yes,6,June,High,Sunday
+Universal,2004-01-08,Men In Black,Universal Studios,Fractured Toe,2004,12,Male,No,No,1,January,Low,Thursday
+Universal,2016-06-25,Men In Black,Universal Studios,seizure (pre-existing condition),2016,46,Male,No,Yes,6,June,High,Saturday
+Universal,2013-03-18,Men In Black,Universal Studios,hermatemesis,2013,41,Female,No,No,3,March,High,Monday
+Universal,2011-10-10,Men In Black,Universal Studios,dizziness & syncope,2011,79,Male,No,No,10,October,Low,Monday
+Universal,2015-05-21,Men In Black,Universal Studios,headache,2015,57,Female,No,No,5,May,Medium,Thursday
+Universal,2013-07-31,Men In Black,Universal Studios,abdominal pain,2013,22,Female,No,No,7,July,High,Wednesday
+Disney World,2022-04-13,Mickey & Minnie's Runaway Railway,Hollywood Studios,guest had seizure after experiencing the attraction,2022,47,Female,No,No,4,April,High,Wednesday
+Disney World,2020-10-28,Mickey & Minnie's Runaway Railway,Hollywood Studios,guest tripped and fell exiting the ride vehicle injuring her head arm and leg,2020,86,Female,No,No,10,October,Low,Wednesday
+Disney World,2022-04-05,Millennium Falcon: Smugglers Run,Hollywood Studios,guest had seizure while experiencing the attraction,2022,23,Male,No,No,4,April,High,Tuesday
+Disney World,2020-03-03,Millennium Falcon: Smugglers Run,Hollywood Studios,guest with pre-existing medical condition had a seizure after the ride,2020,9,Female,No,Yes,3,March,High,Tuesday
+Disney World,2018-11-20,Miss Adventure Falls,Typhoon Lagoon,guest fell out of raft into catch pool at the end of slide and struck his head,2018,18,Male,No,No,11,November,Low,Tuesday
+Disney World,2018-12-08,Miss Adventure Falls,Typhoon Lagoon,guest sustained fractures to arm and injuries to neck and back when arm became caught in conveyor belt during initial incline of ride,2018,44,Male,No,No,12,December,High,Saturday
+Disney World,2012-07-24,Mission: Space,Epcot,guest with pacemaker stated he felt a shock through his shoulders when fastening his restraint,2012,62,Male,No,No,7,July,High,Tuesday
+Disney World,2007-07-19,Mission: Space,Epcot,Guest with history of high blood pressure. Became ill after riding,2007,63,Male,No,Yes,7,July,High,Thursday
+Disney World,2006-11-20,Mission: Space,Epcot,Guest with hypertension felt ill day after riding,2006,59,Male,No,No,11,November,Low,Monday
+Disney World,2006-04-11,Mission: Space,Epcot,Felt ill; passed away next day at hospital.,2006,49,Female,Yes,No,4,April,High,Tuesday
+Disney World,2005-10-04,Mission: Space,Epcot,reported on 10/07/05 that had not been feeling well sinece riding attraction three days prior,2005,51,Male,No,No,10,October,Low,Tuesday
+Disney World,2005-08-06,Mission: Space,Epcot,chest pain.,2005,42,Male,No,No,8,August,High,Saturday
+Disney World,2005-06-13,Mission: Space,Epcot,child lost consciousness. Later died at hospital,2005,4,Male,Yes,No,6,June,High,Monday
+Disney World,2004-11-08,Mission: Space,Epcot,Became dizzy and had upset stomach.,2004,50,Male,No,No,11,November,Low,Monday
+Disney World,2004-07-16,Mission: Space,Epcot,fainted while on ride,2004,40,Female,No,No,7,July,High,Friday
+Disney World,2003-08-10,Mission: Space,Epcot,sustained nausea on ride,2003,55,Male,No,No,8,August,High,Sunday
+Disney World,2003-10-21,Mission: Space,Epcot,chest pain.,2003,61,Male,No,No,10,October,Low,Tuesday
+Disney World,2003-11-17,Mission: Space,Epcot,chest pain.,2003,67,Male,No,No,11,November,Low,Monday
+Disney World,2004-02-05,Mission: Space,Epcot,didnÃ¢ÂÂt feel well,2004,68,Female,No,No,2,February,Low,Thursday
+Disney World,2004-03-24,Mission: Space,Epcot,Chest Pains,2004,59,Female,No,No,3,March,High,Wednesday
+Disney World,2004-03-30,Mission: Space,Epcot,Nausea,2004,59,Male,No,No,3,March,High,Tuesday
+Disney World,2017-09-15,Mission: Space,Epcot,guest with pre-existing condition felt ill after experiencing attraction,2017,56,Female,No,Yes,9,September,Low,Friday
+Disney World,2013-01-25,Mission: Space,Epcot,seizure/loss of consciousness,2013,16,Female,No,No,1,January,Low,Friday
+Disney World,2013-02-23,Mission: Space,Epcot,guest fainted after ride,2013,34,Female,No,No,2,February,Low,Saturday
+Disney World,2011-07-19,Mission: Space,Epcot,guest with pre-existing health condition felt ill after exiting attraction & temporarily lost consciousness.,2011,57,Female,No,Yes,7,July,High,Tuesday
+Disney World,2010-08-13,Mission: Space,Epcot,felt ill: chest pain,2010,54,Female,No,No,8,August,High,Friday
+Disney World,2010-06-06,Mission: Space,Epcot,Felt ill,2010,27,Male,No,No,6,June,High,Sunday
+Disney World,2009-09-19,Mission: Space,Epcot," felt dizzy, loss of memory",2009,52,Female,No,No,9,September,Low,Saturday
+Disney World,2009-06-19,Mission: Space,Epcot,loss of consciousness,2009,57,Female,No,No,6,June,High,Friday
+Disney World,2016-02-19,Mission: Space,Epcot,guest with preexisting heart condition felt ill after riding attractions.,2016,57,Male,No,Yes,2,February,Low,Friday
+Disney World,2022-07-12,Mission: Space,Epcot,guest with pre-existing condition lost consciousness after experiencing the green side of the attraction,2022,47,Male,No,Yes,7,July,High,Tuesday
+Disney World,2020-07-26,Mission: Space,Epcot,guest with pre-existing condition had a stroke after experiencing the green side of the attraction,2020,68,Female,No,Yes,7,July,High,Sunday
+Disney World,2019-07-09,Mission: Space,Epcot,guest with history of motion sickness became ill after riding,2019,34,Male,No,Yes,7,July,High,Tuesday
+Disney World,2018-06-10,Mission: Space,Epcot,guest with pre-existing medical issues experienced brief loss of consciousness,2018,43,Male,No,No,6,June,High,Sunday
+Disney World,2012-02-13,Mission: Space,Epcot,guest w/ pre-existing health condition felt ill after ride; heart attack,2012,56,Male,No,Yes,2,February,Low,Monday
+Disney World,2011-05-23,Mission: Space,Epcot,guest with history of vertigo felt dizzy and ill,2011,53,Female,No,Yes,5,May,Medium,Monday
+Disney World,2010-02-08,Mission: Space,Epcot," vomiting,  vertigo and felt rapid heart rate",2010,45,Male,No,No,2,February,Low,Monday
+Disney World,2008-08-21,Mission: Space,Epcot,felt dizzy and sick,2008,42,Female,No,No,8,August,High,Thursday
+Disney World,2017-01-19,Mission: Space,Epcot,guest with pre-existing condition felt ill and passed out momentarily,2017,69,Female,No,Yes,1,January,Low,Thursday
+Disney World,2014-05-08,Mission: Space,Epcot,chest pain,2014,70,Female,No,No,5,May,Medium,Thursday
+Disney World,2014-05-12,Mission: Space,Epcot,guest with pre-existing condition felt tightness in chest and nausea,2014,58,Male,No,Yes,5,May,Medium,Monday
+Disney World,2014-06-24,Mission: Space,Epcot,motion sickness,2014,54,Female,No,No,6,June,High,Tuesday
+Disney World,2019-07-03,Na'vi River Journey,Animal Kingdom,injured hip entering the attraction,2019,83,Male,No,No,7,July,High,Wednesday
+Universal,2020-09-05,Oh! No! Drop Slide,Volcano Bay,hip/pelvis pain,2020,59,Female,No,No,9,September,Low,Saturday
+Disney World,2006-06-21,Peter Pan's Flight,Magic Kingdom,Fell getting onto ride; fractured hip.,2006,43,Female,No,No,6,June,High,Wednesday
+Disney World,2006-02-14,Peter Pan's Flight,Magic Kingdom,Guest tripped and fell into the ride path as he attempted to board the attraction.,2006,70,Male,No,No,2,February,Low,Tuesday
+Disney World,2007-07-29,Peter Pan's Flight,Magic Kingdom,Fell Ã¢ÂÂ fractured legs and arms.,2007,68,Female,No,No,7,July,High,Sunday
+Disney World,2019-09-25,Peter Pan's Flight,Magic Kingdom,guest with pre-existing medical condition had a seizure after experiencing the attraction,2019,4,Male,No,Yes,9,September,Low,Wednesday
+Disney World,2014-01-06,Peter Pan's Flight,Magic Kingdom,guest with pre-existing condition felt chest pain after riding,2014,63,Female,No,Yes,1,January,Low,Monday
+Disney World,2011-03-06,Peter Pan's Flight,Magic Kingdom,fell on moving walkway in load area; fractured knee,2011,75,Female,No,No,3,March,High,Sunday
+Disney World,2009-07-17,Peter Pan's Flight,Magic Kingdom," lost balance on unload belt,  fell and hit head and fractured wrist",2009,74,Female,No,No,7,July,High,Friday
+Disney World,2008-10-04,Peter Pan's Flight,Magic Kingdom,Seizure,2008,43,Male,No,No,10,October,Low,Saturday
+Disney World,2005-02-13,Pirates of the Caribbean,Magic Kingdom,lost consciousness after ride. Later passed away at hospital,2005,77,Female,Yes,No,2,February,Low,Sunday
+Disney World,2022-05-17,Pirates of the Caribbean,Magic Kingdom,guest experienced abdominal and back pain while on the attraction,2022,70,Male,No,No,5,May,Medium,Tuesday
+Disney World,2021-10-11,Pirates of the Caribbean,Magic Kingdom,guest with pre-existing condition experienced stroke like symptoms after having been on the attraction,2021,81,Male,No,Yes,10,October,Low,Monday
+Disney World,2017-10-25,Pirates of the Caribbean,Magic Kingdom,guest with pre-existing condition experienced headache and brief loss of consciousness,2017,76,Male,No,Yes,10,October,Low,Wednesday
+Disney World,2017-03-23,Pirates of the Caribbean,Magic Kingdom,guest recovering from throat surgery became ill,2017,50,Male,No,No,3,March,High,Thursday
+Disney World,2015-11-26,Pirates of the Caribbean,Magic Kingdom,guest fell while entering the ride,2015,30,Female,No,No,11,November,Low,Thursday
+Disney World,2015-12-20,Pirates of the Caribbean,Magic Kingdom,guest with pre-existing condition had a seizure after exiting.,2015,43,Female,No,Yes,12,December,High,Sunday
+Disney World,2015-05-20,Pirates of the Caribbean,Magic Kingdom,guest with pre-existing condition felt back pain when exiting the ride.,2015,47,Male,No,Yes,5,May,Medium,Wednesday
+Disney World,2014-07-10,Pirates of the Caribbean,Magic Kingdom,lacerated tips of 2 fingers,2014,57,Male,No,No,7,July,High,Thursday
+Disney World,2014-04-13,Pirates of the Caribbean,Magic Kingdom,lacerated 4 fingers,2014,12,Male,No,No,4,April,High,Sunday
+Disney World,2012-11-01,Pirates of the Caribbean,Magic Kingdom," dizziness, chest pain, mouth numbness",2012,71,Female,No,No,11,November,Low,Thursday
+Universal,2022-07-18,Poseidon's Fury,Islands of Adventure,nausea,2022,50,Male,No,No,7,July,High,Monday
+Universal,2014-12-24,Poseidon's Fury,Islands of Adventure,shoulder pain,2014,82,Female,No,No,12,December,High,Wednesday
+Disney World,2014-07-24,Primeval Whirl,Animal Kingdom,temporarily lost consciousness after exiting attraction.,2014,46,Female,No,No,7,July,High,Thursday
+Disney World,2022-02-22,Prince Charming Regal Carousel,Magic Kingdom,guest fell stepping down from attraction,2022,74,Female,No,No,2,February,Low,Tuesday
+Disney World,2022-03-24,Prince Charming Regal Carousel,Magic Kingdom,while dismounting a horse guest lost balance and fell,2022,63,Female,No,No,3,March,High,Thursday
+Disney World,2019-01-30,Prince Charming Regal Carousel,Magic Kingdom,guest fell while exiting the attraction and fractured hip,2019,69,Male,No,No,1,January,Low,Wednesday
+Disney World,2014-11-13,Prince Charming Regal Carousel,Magic Kingdom," fell while stepping off carousel horse, fractured leg",2014,64,Female,No,No,11,November,Low,Thursday
+Disney World,2012-02-25,Prince Charming Regal Carousel,Magic Kingdom,felt ill while boarding attraction; fractured hip & leg,2012,68,Female,No,No,2,February,Low,Saturday
+Disney World,2012-02-29,Prince Charming Regal Carousel,Magic Kingdom,felt ill while exiting attraction; fractured arm,2012,65,Female,No,No,2,February,Low,Wednesday
+Disney World,2011-09-21,Prince Charming Regal Carousel,Magic Kingdom," fell while stepping off the carousel platform, fractured leg",2011,66,Female,No,No,9,September,Low,Wednesday
+Disney World,2017-01-24,Prince Charming Regal Carousel,Magic Kingdom,fell and hit head,2017,72,Female,No,No,1,January,Low,Tuesday
+Disney World,2010-10-11,Prince Charming Regal Carousel,Magic Kingdom,guest fell and fractured hip and shoulder while ride was stopped.,2010,71,Female,No,No,10,October,Low,Monday
+Disney World,2010-12-12,Prince Charming Regal Carousel,Magic Kingdom,guest with pre-existing conditions (i.e. heart condition prior stroke) felt ill while riding attraction  collapsed after exiting and subsequently passed away.,2010,77,Female,Yes,Yes,12,December,High,Sunday
+Universal,2019-05-26,Puihi Raft Ride,Volcano Bay,head pain,2019,24,Female,No,No,5,May,Medium,Sunday
+Universal,2019-07-11,Punga Racers,Volcano Bay,numbness,2019,47,Male,No,No,7,July,High,Thursday
+Disney World,2022-03-24,Remy' s Ratatouille Adventure,Epcot,guest with pre-existing condition experienced stroke like symptoms after exiting the attraction,2022,55,Male,No,Yes,3,March,High,Thursday
+Universal,2005-11-14,Revenge of the Mummy,Universal Studios,Loss of Consciousness.,2005,68,Female,No,No,11,November,Low,Monday
+Universal,2005-08-16,Revenge of the Mummy,Universal Studios,lower back pain.,2005,63,Female,No,No,8,August,High,Tuesday
+Universal,2005-09-23,Revenge of the Mummy,Universal Studios,Dizziness/Mild Chest Discomfort.,2005,57,Female,No,No,9,September,Low,Friday
+Universal,2019-08-06,Revenge of the Mummy,Universal Studios,back pain,2019,65,Male,No,No,8,August,High,Tuesday
+Universal,2018-10-16,Revenge of the Mummy,Universal Studios,dizziness,2018,41,Female,No,No,10,October,Low,Tuesday
+Universal,2017-03-28,Revenge of the Mummy,Universal Studios,seizure,2017,60,Female,No,No,3,March,High,Tuesday
+Universal,2015-06-24,Revenge of the Mummy,Universal Studios," chest, tightness/pressure/pain",2015,59,Male,No,No,6,June,High,Wednesday
+Universal,2015-03-11,Revenge of the Mummy,Universal Studios,motion sickness (pre-existing condition),2015,20,Male,No,Yes,3,March,High,Wednesday
+Universal,2014-05-16,Revenge of the Mummy,Universal Studios,lowered level consciousness,2014,15,Male,No,No,5,May,Medium,Friday
+Universal,2014-05-29,Revenge of the Mummy,Universal Studios,chest pain,2014,18,Male,No,No,5,May,Medium,Thursday
+Universal,2012-07-23,Revenge of the Mummy,Universal Studios,knee pain,2012,50,Female,No,No,7,July,High,Monday
+Universal,2011-04-08,Revenge of the Mummy,Universal Studios,nausea lightheadedness,2011,73,Female,No,No,4,April,High,Friday
+Universal,2008-05-24,Revenge of the Mummy,Universal Studios,chest pain/nausea,2008,45,Male,No,No,5,May,Medium,Saturday
+Universal,2007-11-18,Revenge of the Mummy,Universal Studios,Lower back vertebrae fracture,2007,34,Female,No,No,11,November,Low,Sunday
+Universal,2007-08-19,Revenge of the Mummy,Universal Studios,Chest pain.,2007,57,Male,No,No,8,August,High,Sunday
+Universal,2007-07-07,Revenge of the Mummy,Universal Studios,general weakness after exiting ride.,2007,70,Female,No,No,7,July,High,Saturday
+Universal,2004-09-21,Revenge of the Mummy,Universal Studios,passed away,2004,39,Male,Yes,No,9,September,Low,Tuesday
+Disney World,2007-05-19,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Chest pain; diagnosed with heart attack,2007,47,Male,No,No,5,May,Medium,Saturday
+Disney World,2006-10-04,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Headache and dizziness; transported from other park location approximately three hours after riding.,2006,59,Male,No,No,10,October,Low,Wednesday
+Disney World,2006-06-28,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Fell while getting into vehicle; back injury,2006,50,Female,No,No,6,June,High,Wednesday
+Disney World,2006-06-29,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Guest unresponsive; later passed away at hospital,2006,12,Male,Yes,No,6,June,High,Thursday
+Disney World,2019-02-28,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest had chest pains,2019,64,Male,No,No,2,February,Low,Thursday
+Disney World,2017-04-26,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,shoulder and arm pain; dizziness,2017,70,Male,No,No,4,April,High,Wednesday
+Disney World,2017-06-15,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest with pre-existing condition felt dizzy and faint,2017,81,Male,No,Yes,6,June,High,Thursday
+Disney World,2021-10-27,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest passed out and fell after exiting the attraction,2021,18,Male,No,No,10,October,Low,Wednesday
+Disney World,2022-02-27,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest with pre-existing condition had a seizure on the attraction,2022,48,Female,No,Yes,2,February,Low,Sunday
+Disney World,2022-03-26,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest passed out after experiencing the attraction,2022,43,Female,No,No,3,March,High,Saturday
+Disney World,2019-10-31,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,severe head pain illness and vomiting after riding,2019,46,Female,No,No,10,October,Low,Thursday
+Disney World,2014-12-26,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,dizziness & loss of memory after riding; later lost consciousness,2014,51,Female,No,No,12,December,High,Friday
+Disney World,2012-06-09,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Loss of consciousness on ride; regained consciousness before exiting,2012,51,Male,No,No,6,June,High,Saturday
+Disney World,2014-12-01,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,experienced nausea and motion sickness,2014,55,Female,No,No,12,December,High,Monday
+Disney World,2017-10-08,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest with pre-existing condition felt ill after riding attraction,2017,71,Female,No,Yes,10,October,Low,Sunday
+Disney World,2015-09-18,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest with pre-existing condition felt ill and temporarily lost consciousness,2015,55,Male,No,Yes,9,September,Low,Friday
+Disney World,2009-09-17,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,seizure after exiting ride,2009,31,Female,No,No,9,September,Low,Thursday
+Disney World,2009-09-21,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,chest pains and shortness of breath,2009,50,Female,No,No,9,September,Low,Monday
+Disney World,2009-04-13,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,feeling weak on left side and had trouble standing after riding.,2009,48,Male,No,No,4,April,High,Monday
+Disney World,2009-05-21,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,Chest pains,2009,55,Male,No,No,5,May,Medium,Thursday
+Disney World,2008-06-05,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,seizure,2008,25,Female,No,No,6,June,High,Thursday
+Disney World,2016-06-21,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,guest reported back and leg pain and that he was lightheaded; later underwent heart surgery.,2016,26,Male,No,No,6,June,High,Tuesday
+Disney World,2016-06-25,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,felt ill; nausea,2016,50,Male,No,No,6,June,High,Saturday
+Universal,2022-05-10,Runamukka Reef,Volcano Bay,elbow pain,2022,78,Female,No,No,5,May,Medium,Tuesday
+Disney World,2015-11-21,Seven Dwarfs Mine Train,Magic Kingdom,guest felt ill after riding attraction,2015,71,Male,No,No,11,November,Low,Saturday
+Disney World,2018-11-27,Seven Dwarfs Mine Train,Magic Kingdom,guest felt dizzy after having experienced the attraction,2018,58,Female,No,No,11,November,Low,Tuesday
+Disney World,2017-05-14,Seven Dwarfs Mine Train,Magic Kingdom,guest with pre-existing condition had a seizure,2017,48,Female,No,Yes,5,May,Medium,Sunday
+Disney World,2014-12-18,Seven Dwarfs Mine Train,Magic Kingdom,guest wilt preexisting condition felt ill after exiting,2014,54,Male,No,Yes,12,December,High,Thursday
+Disney World,2022-09-25,Slinky Dog Dash,Hollywood Studios,guest had a seizure after riding the attraction,2022,46,Male,No,No,9,September,Low,Sunday
+Disney World,2019-02-02,Slinky Dog Dash,Hollywood Studios,guest with pre-existing condition had seizure,2019,30,Male,No,Yes,2,February,Low,Saturday
+Disney World,2004-08-16,Slush Gusher,Blizzard Beach,felt dizzy & sick,2004,49,Male,No,No,8,August,High,Monday
+Disney World,2009-01-31,Snow White's Scary Adventures,Magic Kingdom,guest exited vehicle and claims to have lost consciousness,2009,46,Female,No,No,1,January,Low,Saturday
+Disney World,2008-05-08,Snow White's Scary Adventures,Magic Kingdom,seizure,2008,6,Female,No,No,5,May,Medium,Thursday
+Disney World,2007-01-15,Soarin' Around the World,Epcot,Guest had difficulty standing in exit area; passed away two days later due to stroke.,2007,60,Male,Yes,No,1,January,Low,Monday
+Disney World,2014-12-10,Soarin' Around the World,Epcot," tripped over guests bag, fractured leg",2014,74,Female,No,No,12,December,High,Wednesday
+Disney World,2012-03-07,Soarin' Around the World,Epcot,chest pain,2012,56,Female,No,No,3,March,High,Wednesday
+Disney World,2017-01-16,Soarin' Around the World,Epcot," guest with pre-existing condition felt chest pain, numbness",2017,89,Female,No,Yes,1,January,Low,Monday
+Disney World,2009-06-08,Soarin' Around the World,Epcot,felt pain in side earlier in day; reported it was worse after riding.,2009,69,Female,No,No,6,June,High,Monday
+Disney World,2017-01-17,Soarin' Around the World,Epcot,"felt dizzy and ill, slurred speech",2017,46,Male,No,No,1,January,Low,Tuesday
+Disney World,2022-01-23,Soarin' Around the World,Epcot,guest with pre-existing condition had chest pain after exiting the attraction,2022,56,Female,No,Yes,1,January,Low,Sunday
+Disney World,2022-03-08,Soarin' Around the World,Epcot,guest experienced stroke like symptoms while on the attraction,2022,73,Female,No,No,3,March,High,Tuesday
+Disney World,2022-03-14,Soarin' Around the World,Epcot,guest had chest pain after experiencing the attraction,2022,82,Female,No,No,3,March,High,Monday
+Disney World,2012-09-02,Space Mountain,Magic Kingdom,guest lost consciousness after exiting attraction subsequently diagnosed with a heart attack,2012,80,Male,No,No,9,September,Low,Sunday
+Disney World,2007-06-23,Space Mountain,Magic Kingdom,Dizzy and weakness in the left side.,2007,57,Female,No,No,6,June,High,Saturday
+Disney World,2006-12-07,Space Mountain,Magic Kingdom,Guest unresponsive after riding; passed away three days later due to heart condition.,2006,73,Male,Yes,Yes,12,December,High,Thursday
+Disney World,2006-08-01,Space Mountain,Magic Kingdom," Terminally ill guest rode ride, later passed away at hospital",2006,6,Male,Yes,No,8,August,High,Tuesday
+Disney World,2006-06-14,Space Mountain,Magic Kingdom,Chest pain.,2006,48,Male,No,No,6,June,High,Wednesday
+Disney World,2006-02-22,Space Mountain,Magic Kingdom,Hip Pain.,2006,56,Female,No,No,2,February,Low,Wednesday
+Disney World,2006-03-14,Space Mountain,Magic Kingdom,Motion Sickness.,2006,61,Male,No,No,3,March,High,Tuesday
+Disney World,2004-12-24,Space Mountain,Magic Kingdom,collapsed in queue line leading to ride. Child subsequently passed away at hospital.,2004,11,Female,Yes,No,12,December,High,Friday
+Disney World,2003-02-03,Space Mountain,Magic Kingdom,memory loss,2003,75,Female,No,No,2,February,Low,Monday
+Disney World,2015-09-15,Space Mountain,Magic Kingdom,thigh pain,2015,7,Female,No,No,9,September,Low,Tuesday
+Disney World,2020-11-21,Space Mountain,Magic Kingdom,guest felt ill after experiencing the attraction,2020,60,Female,No,No,11,November,Low,Saturday
+Disney World,2019-12-10,Space Mountain,Magic Kingdom,guest with pre-existing medical condition experienced temporary loss of consciousness,2019,89,Female,No,Yes,12,December,High,Tuesday
+Disney World,2019-06-08,Space Mountain,Magic Kingdom,guest became ill after riding attraction,2019,61,Female,No,No,6,June,High,Saturday
+Disney World,2018-08-06,Space Mountain,Magic Kingdom,guest was disoriented and unable to exit vehicle without assistance,2018,69,Female,No,No,8,August,High,Monday
+Disney World,2018-06-20,Space Mountain,Magic Kingdom,guest with pre-existing condition felt disoriented and had slurred speech,2018,68,Female,No,Yes,6,June,High,Wednesday
+Disney World,2017-09-12,Space Mountain,Magic Kingdom,guest felt dizzy and disoriented,2017,17,Female,No,No,9,September,Low,Tuesday
+Disney World,2017-09-27,Space Mountain,Magic Kingdom," fell entering ride vehicle,  temporary loss of consciousness, fractured leg",2017,48,Female,No,No,9,September,Low,Wednesday
+Disney World,2016-08-20,Space Mountain,Magic Kingdom,stomach and chest pain,2016,59,Male,No,No,8,August,High,Saturday
+Disney World,2016-04-26,Space Mountain,Magic Kingdom," guest felt ill, dizzy and disoriented",2016,46,Female,No,No,4,April,High,Tuesday
+Disney World,2016-01-26,Space Mountain,Magic Kingdom,guest temporarily lost consciousness and fell after riding attraction.,2016,17,Female,No,No,1,January,Low,Tuesday
+Disney World,2015-07-07,Space Mountain,Magic Kingdom," guest with pre-existing conditions exited ride,  then lost consciousness; later passed away.",2015,55,Female,Yes,Yes,7,July,High,Tuesday
+Disney World,2014-12-28,Space Mountain,Magic Kingdom,felt nauseated & lethargic after exiting,2014,72,Male,No,No,12,December,High,Sunday
+Disney World,2014-07-29,Space Mountain,Magic Kingdom," chest pain, nausea and vomiting",2014,62,Female,No,No,7,July,High,Tuesday
+Disney World,2014-08-05,Space Mountain,Magic Kingdom,guest who had not been feeling well felt sick after exiting.,2014,53,Male,No,No,8,August,High,Tuesday
+Disney World,2014-03-03,Space Mountain,Magic Kingdom,guest with pre-existing condition experienced periods of unconsciousness,2014,16,Female,No,Yes,3,March,High,Monday
+Disney World,2013-08-26,Space Mountain,Magic Kingdom,nausea vomiting & neck pain; reportedly underwent surgery to the head prior to being released from hospital,2013,26,Female,No,No,8,August,High,Monday
+Disney World,2013-05-30,Space Mountain,Magic Kingdom," dizziness,  chest pain, lower abdominal pain",2013,56,Male,No,No,5,May,Medium,Thursday
+Disney World,2013-01-14,Space Mountain,Magic Kingdom,motion sickness/fainted during and after ride.,2013,54,Male,No,No,1,January,Low,Monday
+Disney World,2012-12-29,Space Mountain,Magic Kingdom," loss of consciousness while on ride, pre-existing condition",2012,40,Male,No,Yes,12,December,High,Saturday
+Disney World,2012-04-08,Space Mountain,Magic Kingdom,Guest with preexisting health condition (asthma) temporarily lost consciousness; released,2012,57,Male,No,Yes,4,April,High,Sunday
+Disney World,2012-03-09,Space Mountain,Magic Kingdom,while entering ride vehicle guest fractured leg,2012,49,Female,No,No,3,March,High,Friday
+Disney World,2011-11-19,Space Mountain,Magic Kingdom,nausea and dizziness,2011,43,Female,No,No,11,November,Low,Saturday
+Disney World,2011-04-28,Space Mountain,Magic Kingdom," felt nauseous, dizzy and short of breath",2011,47,Female,No,No,4,April,High,Thursday
+Disney World,2011-05-15,Space Mountain,Magic Kingdom,guest with history of asthma came into unload area unresponsive: regained consciousness and was transported to hospital,2011,12,Female,No,Yes,5,May,Medium,Sunday
+Disney World,2011-05-21,Space Mountain,Magic Kingdom,guest came into unload area unconscious: later diagnosed with subarachnoid hemorrhage at hospital,2011,48,Female,No,No,5,May,Medium,Saturday
+Disney World,2010-01-06,Space Mountain,Magic Kingdom,stroke,2010,71,Female,No,No,1,January,Low,Wednesday
+Disney World,2009-03-18,Space Mountain,Magic Kingdom,Felt light headed; nausea,2009,75,Female,No,No,3,March,High,Wednesday
+Disney World,2008-10-24,Space Mountain,Magic Kingdom,Dizzy and disoriented,2008,65,Male,No,No,10,October,Low,Friday
+Disney World,2018-09-16,Space Mountain,Magic Kingdom,guest with pre-existing condition lost consciousness after exiting attraction,2018,37,Male,No,Yes,9,September,Low,Sunday
+Disney World,2006-08-08,Spaceship Earth,Epcot,Guest visiting through wish granting Organization had seizure after riding.,2006,7,Female,No,No,8,August,High,Tuesday
+Disney World,2005-10-14,Spaceship Earth,Epcot,fell getting off attraction reported complaints regarding shoulder and both wrists,2005,65,Female,No,No,10,October,Low,Friday
+Disney World,2021-05-30,Spaceship Earth,Epcot,guest with pre-existing condition passed out after exiting the attraction; later passed away at hospital,2021,58,Male,Yes,Yes,5,May,Medium,Sunday
+Disney World,2019-05-31,Spaceship Earth,Epcot,guest passed out after exiting the attraction,2019,72,Female,No,No,5,May,Medium,Friday
+Disney World,2016-04-16,Spaceship Earth,Epcot,fell while boarding; fractured leg,2016,69,Female,No,No,4,April,High,Saturday
+Disney World,2015-04-14,Spaceship Earth,Epcot," guest with pre-existing condition felt nausea,  shortness of breath and pain in jaw after riding.",2015,79,Male,No,Yes,4,April,High,Tuesday
+Disney World,2013-02-12,Spaceship Earth,Epcot,felt ill and appeared incoherent,2013,56,Male,No,No,2,February,Low,Tuesday
+Disney World,2012-05-17,Spaceship Earth,Epcot,Seizure,2012,55,Female,No,No,5,May,Medium,Thursday
+Disney World,2012-06-15,Spaceship Earth,Epcot,Guest with preexisting health condition felt ill after riding,2012,49,Male,No,Yes,6,June,High,Friday
+Disney World,2010-04-05,Spaceship Earth,Epcot,chest pain,2010,68,Female,No,No,4,April,High,Monday
+Disney World,2009-02-11,Spaceship Earth,Epcot,chest pain,2009,59,Male,No,No,2,February,Low,Wednesday
+Disney World,2002-07-07,Spaceship Earth,Epcot,Asthma Attack,2002,51,Male,No,No,7,July,High,Sunday
+Disney World,2006-07-29,Splash Mountain,Magic Kingdom," Guest recently released from hospital for lung condition,  reported chest pains and difficulty breathing.",2006,37,Female,No,Yes,7,July,High,Saturday
+Disney World,2005-07-10,Splash Mountain,Magic Kingdom,chest pain.,2005,61,Male,No,No,7,July,High,Sunday
+Disney World,2021-10-09,Splash Mountain,Magic Kingdom,guest had a seizure after experiencing the attraction,2021,39,Male,No,No,10,October,Low,Saturday
+Disney World,2018-06-16,Splash Mountain,Magic Kingdom,guest experienced chest pain and shortness of breath before and after riding attraction,2018,15,Male,No,No,6,June,High,Saturday
+Disney World,2015-06-15,Splash Mountain,Magic Kingdom,nausea and chest pains,2015,21,Female,No,No,6,June,High,Monday
+Disney World,2011-02-06,Splash Mountain,Magic Kingdom,Guest with prior history of anaphylactic reactions began experiencing symptoms while on the attraction.,2011,29,Female,No,Yes,2,February,Low,Sunday
+Disney World,2009-07-04,Splash Mountain,Magic Kingdom," passed out after riding and exiting attraction,  hit head on concrete floor and fractured skull.",2009,57,Female,No,No,7,July,High,Saturday
+Disney World,2009-04-13,Splash Mountain,Magic Kingdom,seizure,2009,39,Male,No,No,4,April,High,Monday
+Disney World,2008-12-16,Splash Mountain,Magic Kingdom,Fall occurred while getting into vehicles; fractured leg,2008,61,Male,No,No,12,December,High,Tuesday
+Disney World,2008-04-27,Splash Mountain,Magic Kingdom,chest pain,2008,65,Male,No,No,4,April,High,Sunday
+Disney World,2012-08-31,Star Tours: The Adventure Continues,Hollywood Studios,dizziness neck pain and motion sickness,2012,51,Male,No,No,8,August,High,Friday
+Disney World,2019-10-05,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition felt dizzy and had trouble with equilibrium,2019,39,Female,No,Yes,10,October,Low,Saturday
+Disney World,2019-10-08,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition was ill after experiencing the attraction,2019,66,Male,No,Yes,10,October,Low,Tuesday
+Disney World,2019-08-19,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing medical condition had a seizure and fell after riding,2019,40,Male,No,Yes,8,August,High,Monday
+Disney World,2019-04-03,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition had chest pain after experiencing the attraction,2019,78,Female,No,Yes,4,April,High,Wednesday
+Disney World,2018-05-06,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition had chest pain and shortness of breath after riding attraction,2018,57,Male,No,Yes,5,May,Medium,Sunday
+Disney World,2017-11-21,Star Tours: The Adventure Continues,Hollywood Studios,guest felt ill and dizzy after riding attraction,2017,67,Female,No,No,11,November,Low,Tuesday
+Disney World,2016-09-18,Star Tours: The Adventure Continues,Hollywood Studios,guest with preexisting heart condition felt ill after riding; later passed away,2016,68,Male,Yes,Yes,9,September,Low,Sunday
+Disney World,2015-05-06,Star Tours: The Adventure Continues,Hollywood Studios,felt ill,2015,67,Male,No,No,5,May,Medium,Wednesday
+Disney World,2015-03-16,Star Tours: The Adventure Continues,Hollywood Studios,seizure after exiting ride,2015,46,Male,No,No,3,March,High,Monday
+Disney World,2014-08-08,Star Tours: The Adventure Continues,Hollywood Studios,chest pain; did not have medication with him.,2014,45,Male,No,No,8,August,High,Friday
+Disney World,2013-01-24,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing health condition experienced nausea and chest pain after ride,2013,41,Male,No,Yes,1,January,Low,Thursday
+Disney World,2011-08-09,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition had a seizure.,2011,16,Female,No,Yes,8,August,High,Tuesday
+Disney World,2009-11-16,Star Tours: The Adventure Continues,Hollywood Studios," felt dizzy,  later fainted and fell and struck his head",2009,74,Male,No,No,11,November,Low,Monday
+Disney World,2009-07-27,Star Tours: The Adventure Continues,Hollywood Studios,Seizure after exiting ride.,2009,54,Male,No,No,7,July,High,Monday
+Disney World,2022-05-13,Star Tours: The Adventure Continues,Hollywood Studios,guest with pre-existing condition felt faint after experiencing the attraction,2022,70,Male,No,Yes,5,May,Medium,Friday
+Disney World,2022-03-30,Star Wars: Rise of the Resistance,Hollywood Studios,guest experienced a cardiac event within the attraction in a holding area prior to boarding a ride vehicle,2022,47,Female,No,No,3,March,High,Wednesday
+Universal,2022-04-02,Storm Force Acceleration,Islands of Adventure,seizure,2022,37,Female,No,No,4,April,High,Saturday
+Disney World,2009-06-07,Storm Slide-Rudder Buster,Typhoon Lagoon,felt disoriented and sick after riding.,2009,52,Female,No,No,6,June,High,Sunday
+Disney World,2009-06-25,Storm Slide-Rudder Buster,Typhoon Lagoon,fractured ribs after collision with another guest.,2009,66,Male,No,No,6,June,High,Thursday
+Disney World,2012-07-07,Storm Slide-Rudder Buster,Typhoon Lagoon,fractured leg after entering catch pool,2012,52,Male,No,No,7,July,High,Saturday
+Disney World,2011-10-25,Storm Slide-Rudder Buster,Typhoon Lagoon,fell and fractured ankle,2011,48,Male,No,No,10,October,Low,Tuesday
+Disney World,2010-08-23,Storm Slide-Rudder Buster,Typhoon Lagoon,complained of head pain and collapsed: subsequent stroke at hospital,2010,39,Male,No,No,8,August,High,Monday
+Disney World,2014-08-03,Studio Backlot Tour,Hollywood Studios,guest temporarily lost consciousness while transferring from wheelchair into ride vehicle.,2014,53,Female,No,No,8,August,High,Sunday
+Disney World,2006-02-06,Summit Plummet,Blizzard Beach,Breathing problems.,2006,25,Male,No,No,2,February,Low,Monday
+Disney World,2004-04-07,Surf Pool,Blizzard Beach,fractured elbow,2004,53,Male,No,No,4,April,High,Wednesday
+Disney World,2012-08-26,Surf Pool,Typhoon Lagoon,guest collapsed in water subsequently Passed away from heart attack,2012,54,Male,Yes,No,8,August,High,Sunday
+Disney World,2002-10-19,Surf Pool,Typhoon Lagoon,saw spots,2002,48,Male,No,No,10,October,Low,Saturday
+Disney World,2006-04-11,Surf Pool,Typhoon Lagoon," Swallowed a lot of water, felt dizzy and shortness of breath",2006,50,Male,No,No,4,April,High,Tuesday
+Disney World,2006-03-03,Surf Pool,Typhoon Lagoon,Loss of consciousness.,2006,58,Male,No,No,3,March,High,Friday
+Disney World,2005-08-04,Surf Pool,Typhoon Lagoon,felt illÃ¢ÂÂ¦later passed away at hospital.,2005,12,Female,Yes,No,8,August,High,Thursday
+Disney World,2005-08-31,Surf Pool,Typhoon Lagoon,fell and fractured wrist.,2005,69,Female,No,No,8,August,High,Wednesday
+Disney World,2003-07-17,Surf Pool,Typhoon Lagoon,stroke (according to family),2003,46,Male,No,No,7,July,High,Thursday
+Disney World,2016-06-14,Surf Pool,Typhoon Lagoon,injured knee,2016,65,Female,No,No,6,June,High,Tuesday
+Disney World,2012-05-01,Surf Pool,Typhoon Lagoon,Temporarily loss of consciousness when another guest fell and knocked her down; pain in right knee/leg,2012,61,Female,No,No,5,May,Medium,Tuesday
+Universal,2015-08-23,Surf Pool,Typhoon Lagoon,chest pain (pre-existing condition),2015,45,Male,No,Yes,8,August,High,Sunday
+Disney World,2013-01-09,Surf Pool,Typhoon Lagoon,fell and fractured left leg,2013,67,Female,No,No,1,January,Low,Wednesday
+Disney World,2011-05-13,Surf Pool,Typhoon Lagoon,fell and fractured left leg,2011,47,Female,No,No,5,May,Medium,Friday
+Disney World,2003-02-07,Surf Pool,Typhoon Lagoon,fell on steps leading to catch pool fractured ankle and died of pulmonary embolism,2003,31,Female,Yes,No,2,February,Low,Friday
+Disney World,2002-03-29,Surf Pool,Typhoon Lagoon,c/o neck pain,2002,16,Female,No,No,3,March,High,Friday
+Disney World,2010-08-03,Surf Pool,Typhoon Lagoon,loss of consciousness: history of heart condition,2010,77,Female,No,Yes,8,August,High,Tuesday
+Universal,2020-06-14,Tai Nui Serpentine Body Slide,Volcano Bay,unresponsive,2020,9,Male,No,No,6,June,High,Sunday
+Universal,2019-03-04,Tai Nui Serpentine Body Slide,Volcano Bay,hip/pelvis pain,2019,53,Male,No,No,3,March,High,Monday
+Universal,2018-09-06,Tai Nui Serpentine Body Slide,Volcano Bay,hip pain,2018,51,Male,No,No,9,September,Low,Thursday
+Universal,2018-05-16,Tai Nui Serpentine Body Slide,Volcano Bay,hip/pelvis pain,2018,27,Male,No,No,5,May,Medium,Wednesday
+Disney World,2021-06-19,Teamboat Springs,Blizzard Beach,guest fractured ankle stepping into the tube,2021,43,Male,No,No,6,June,High,Saturday
+Disney World,2017-09-26,Teamboat Springs,Blizzard Beach,fell while entering raft and fractured back,2017,58,Female,No,No,9,September,Low,Tuesday
+Disney World,2009-04-16,Teamboat Springs,Blizzard Beach,Felt disoriented and lightheaded,2009,64,Female,No,No,4,April,High,Thursday
+Disney World,2008-08-14,Teamboat Springs,Blizzard Beach,slipped while getting into tube; fractured ankle,2008,41,Female,No,No,8,August,High,Thursday
+Universal,2022-06-16,Te'awa The Fearless River,Volcano Bay,lost consciousness (pre-existing condition),2022,30,Female,No,Yes,6,June,High,Thursday
+Universal,2019-03-10,Te'awa The Fearless River,Volcano Bay,chest palpitations,2019,29,Male,No,No,3,March,High,Sunday
+Universal,2017-08-15,Te'awa The Fearless River,Volcano Bay,cardiac arrest,2017,53,Female,No,No,8,August,High,Tuesday
+Universal,2013-10-17,Terminator 2: 3D,Universal Studios,abdominal pain,2013,68,Female,No,No,10,October,Low,Thursday
+Disney World,2015-06-06,Test Track,Epcot,guest with pre-existing condition experienced chest pain.,2015,69,Male,No,Yes,6,June,High,Saturday
+Disney World,2006-12-18,Test Track,Epcot,Fell getting out of vehicle and fractured pelvis.,2006,67,Female,No,No,12,December,High,Monday
+Disney World,2020-03-14,Test Track,Epcot,guest with pre-existing condition experienced abdominal pain after riding the attraction,2020,34,Female,No,Yes,3,March,High,Saturday
+Disney World,2019-05-17,Test Track,Epcot,guest with pre-existing condition became ill after riding attraction,2019,64,Male,No,Yes,5,May,Medium,Friday
+Disney World,2010-03-13,Test Track,Epcot," felt dizzy and ill, nose bleed",2010,63,Male,No,No,3,March,High,Saturday
+Disney World,2009-08-15,Test Track,Epcot,fell while exiting vehicle and broke right wrist.,2009,40,Male,No,No,8,August,High,Saturday
+Universal,2014-11-23,The Amazing Adventures of Spiderman,Islands of Adventure,change in mental status,2014,45,Male,No,No,11,November,Low,Sunday
+Universal,2008-08-15,The Amazing Adventures of Spiderman,Islands of Adventure,shortness of breath with associated chest pain,2008,16,Male,No,No,8,August,High,Friday
+Universal,2006-09-26,The Amazing Adventures of Spiderman,Islands of Adventure,Fainting,2006,67,Male,No,No,9,September,Low,Tuesday
+Disney World,2017-11-03,The Barnstormer,Magic Kingdom,guest complained of chest pain after riding attraction,2017,55,Male,No,No,11,November,Low,Friday
+Disney World,2013-02-19,The Barnstormer,Magic Kingdom,seizure like symptoms,2013,56,Female,No,No,2,February,Low,Tuesday
+Universal,2008-01-31,The Cat In The Hat,Islands of Adventure,Nausea,2008,32,Female,No,No,1,January,Low,Thursday
+Universal,2005-02-22,The Incredible Hulk Coaster,Islands of Adventure,loss of consciousness.,2005,56,Female,No,No,2,February,Low,Tuesday
+Universal,2008-02-29,The Incredible Hulk Coaster,Islands of Adventure,Seizure,2008,28,Female,No,No,2,February,Low,Friday
+Universal,2012-07-29,The Incredible Hulk Coaster,Islands of Adventure,chest pain,2012,18,Female,No,No,7,July,High,Sunday
+Universal,2021-02-15,The Incredible Hulk Coaster,Islands of Adventure,syncope,2021,42,Female,No,No,2,February,Low,Monday
+Universal,2020-11-27,The Incredible Hulk Coaster,Islands of Adventure,seizure,2020,14,Female,No,No,11,November,Low,Friday
+Universal,2020-02-16,The Incredible Hulk Coaster,Islands of Adventure,motion sickness,2020,48,Male,No,No,2,February,Low,Sunday
+Universal,2017-07-24,The Incredible Hulk Coaster,Islands of Adventure,chest pain,2017,36,Female,No,No,7,July,High,Monday
+Universal,2017-06-20,The Incredible Hulk Coaster,Islands of Adventure,syncope,2017,47,Female,No,No,6,June,High,Tuesday
+Universal,2015-06-14,The Incredible Hulk Coaster,Islands of Adventure,chest discomfort,2015,59,Male,No,No,6,June,High,Sunday
+Universal,2014-03-14,The Incredible Hulk Coaster,Islands of Adventure,dizziness,2014,40,Male,No,No,3,March,High,Friday
+Universal,2011-04-18,The Incredible Hulk Coaster,Islands of Adventure,syncope,2011,29,Male,No,No,4,April,High,Monday
+Disney World,2005-06-16,The Liberty Belle,Magic Kingdom,fainted and fell while on Riverboat. Hurt ankle and knee,2005,45,Female,No,No,6,June,High,Thursday
+Disney World,2003-07-16,The Liberty Belle,Magic Kingdom,fx pelvis,2003,83,Female,No,No,7,July,High,Wednesday
+Disney World,2003-11-08,The Liberty Belle,Magic Kingdom,fell & hit head.,2003,71,Female,No,No,11,November,Low,Saturday
+Disney World,2014-02-28,The Liberty Belle,Magic Kingdom,guest with personal illness felt weakness while on the riverboat,2014,80,Male,No,No,2,February,Low,Friday
+Disney World,2014-06-28,The Magic Carpets of Aladdin,Magic Kingdom,loss of consciousness on ride; regained consciousness and was trasnported,2014,8,Female,No,No,6,June,High,Saturday
+Disney World,2021-10-22,The Many Adventures of Winnie the Pooh,Magic Kingdom,guest had a seizure after experiencing the attraction,2021,20,Female,No,No,10,October,Low,Friday
+Disney World,2012-01-31,The Seas with Nemo & Friends,Epcot,felt ill; subsequently diagnosed with heart attack,2012,78,Male,No,No,1,January,Low,Tuesday
+Disney World,2019-06-20,The Seas with Nemo & Friends,Epcot,guest fell and fractured hip while loading onto the attraction,2019,69,Female,No,No,6,June,High,Thursday
+Disney World,2014-08-17,The Seas with Nemo & Friends,Epcot,fell and struck face while assisting family member from vehicle; facial fractures.,2014,63,Male,No,No,8,August,High,Sunday
+Disney World,2014-04-14,The Seas with Nemo & Friends,Epcot,guest fell on mobbing walkway and injured knee,2014,62,Female,No,No,4,April,High,Monday
+Disney World,2010-12-31,The Seas with Nemo & Friends,Epcot,guest fell while on moving walkway and injured her left leg.,2010,76,Female,No,No,12,December,High,Friday
+Disney World,2008-03-13,The Seas with Nemo & Friends,Epcot,Fell exiting vehicle; hit head and fractured left shoulder,2008,71,Female,No,No,3,March,High,Thursday
+Disney World,2007-10-11,The Seas with Nemo & Friends,Epcot,Fell while boarding the vehicle/back pain,2007,81,Female,No,No,10,October,Low,Thursday
+Disney World,2018-09-16,The Seas with Nemo & Friends,Epcot,guest felt ill prior to and after experiencing the attraction,2018,79,Female,No,No,9,September,Low,Sunday
+Disney World,2018-01-14,The Seas with Nemo & Friends,Epcot,guest with pre-existing heart condition had chest pain,2018,69,Male,No,Yes,1,January,Low,Sunday
+Disney World,2015-04-07,The Seas with Nemo & Friends,Epcot,guest with pre-existing condition felt ill after exiting ride.,2015,81,Male,No,Yes,4,April,High,Tuesday
+Universal,2022-05-04,The Simpsons Ride,Universal Studios,knee pain,2022,25,Female,No,No,5,May,Medium,Wednesday
+Universal,2014-09-09,The Simpsons Ride,Universal Studios,headache,2014,59,Male,No,No,9,September,Low,Tuesday
+Universal,2008-11-01,The Simpsons Ride,Universal Studios,chest pain,2008,68,Male,No,No,11,November,Low,Saturday
+Disney World,2006-02-07,The Twilight Zone Tower of Terror,Hollywood Studios,Felt Dizzy.,2006,56,Female,No,No,2,February,Low,Tuesday
+Disney World,2005-07-12,The Twilight Zone Tower of Terror,Hollywood Studios,felt ill.,2005,16,Female,No,No,7,July,High,Tuesday
+Disney World,2004-05-16,The Twilight Zone Tower of Terror,Hollywood Studios,chest pains after ride,2004,62,Male,No,No,5,May,Medium,Sunday
+Disney World,2003-06-29,The Twilight Zone Tower of Terror,Hollywood Studios,chest pain,2003,45,Female,No,No,6,June,High,Sunday
+Disney World,2002-04-01,The Twilight Zone Tower of Terror,Hollywood Studios," anxiety & claustrophobia, atrial fibrilation",2002,47,Female,No,No,4,April,High,Monday
+Disney World,2020-02-12,The Twilight Zone Tower of Terror,Hollywood Studios,guest had abdominal pain after experiencing attraction,2020,38,Female,No,No,2,February,Low,Wednesday
+Disney World,2017-03-26,The Twilight Zone Tower of Terror,Hollywood Studios,felt ill,2017,61,Male,No,No,3,March,High,Sunday
+Disney World,2016-05-23,The Twilight Zone Tower of Terror,Hollywood Studios,guest with preexisting history felt chest pain; numbness in arm,2016,18,Male,No,Yes,5,May,Medium,Monday
+Disney World,2014-07-02,The Twilight Zone Tower of Terror,Hollywood Studios,guest with pre-existing condition experienced anxiety & numbness,2014,18,Female,No,Yes,7,July,High,Wednesday
+Disney World,2014-08-19,The Twilight Zone Tower of Terror,Hollywood Studios,guest with pre-existing condition experienced chest pain.,2014,40,Female,No,Yes,8,August,High,Tuesday
+Disney World,2016-10-27,The Twilight Zone Tower of Terror,Hollywood Studios,guest felt disoriented,2016,40,Male,No,No,10,October,Low,Thursday
+Disney World,2012-07-09,The Twilight Zone Tower of Terror,Hollywood Studios," felt dizzy, numbness/pain in arms",2012,25,Female,No,No,7,July,High,Monday
+Disney World,2008-12-12,The Twilight Zone Tower of Terror,Hollywood Studios,Numbness in right leg,2008,41,Female,No,No,12,December,High,Friday
+Disney World,2008-07-30,The Twilight Zone Tower of Terror,Hollywood Studios,felt disoriented and dizzy,2008,62,Male,No,No,7,July,High,Wednesday
+Disney World,2008-04-05,The Twilight Zone Tower of Terror,Hollywood Studios," neck & head pain, diagnosed with existing brain tumor",2008,32,Male,No,No,4,April,High,Saturday
+Disney World,2007-10-19,The Twilight Zone Tower of Terror,Hollywood Studios,Fell ill after riding attraction  claimed memory loss and irregular heartbeat became ill after riding.,2007,77,Male,No,No,10,October,Low,Friday
+Disney World,2009-03-11,Toboggan Racers,Blizzard Beach,Cervical injury after collision near end of slide,2009,67,Male,No,No,3,March,High,Wednesday
+Disney World,2009-06-18,Toboggan Racers,Blizzard Beach,Felt pain in abdomen and chest,2009,43,Female,No,No,6,June,High,Thursday
+Disney World,2014-04-03,Tomorrowland Speedway,Magic Kingdom," guest fell while exiting vehicle, fractured fibula",2014,64,Female,No,No,4,April,High,Thursday
+Disney World,2019-07-23,Tomorrowland Speedway,Magic Kingdom,guest fell loading onto the attraction; multiple abrasions and contusions,2019,75,Male,No,No,7,July,High,Tuesday
+Disney World,2015-01-10,Tomorrowland Speedway,Magic Kingdom,guest injured ankle attempting to step out of the vehicle.,2015,64,Male,No,No,1,January,Low,Saturday
+Disney World,2009-06-09,Tomorrowland Speedway,Magic Kingdom,fell after exiting vehicle and fractured arm.,2009,7,Male,No,No,6,June,High,Tuesday
+Disney World,2022-09-23,Tomorrowland Speedway,Magic Kingdom,guest went into labor after exiting the attraction,2022,27,Female,No,No,9,September,Low,Friday
+Disney World,2016-06-12,Tomorrowland Speedway,Magic Kingdom,guest with preexisting condition felt ill after exiting ride.,2016,67,Male,No,Yes,6,June,High,Sunday
+Disney World,2015-07-04,Tomorrowland Speedway,Magic Kingdom,guest with pre-existing health condition had seizure,2015,32,Female,No,Yes,7,July,High,Saturday
+Disney World,2009-12-14,Tomorrowland Speedway,Magic Kingdom," felt dizzy,  tripped while exiting vehicle and injured his knee",2009,59,Male,No,No,12,December,High,Monday
+Disney World,2008-12-28,Tomorrowland Speedway,Magic Kingdom,Felt dizzy and hot; loss of consciousness,2008,79,Female,No,No,12,December,High,Sunday
+Disney World,2015-08-03,Tomorrowland Transit Authority People Mover,Magic Kingdom," fell while exiting, fractured shoulder",2015,68,Male,No,No,8,August,High,Monday
+Disney World,2015-09-02,Tomorrowland Transit Authority People Mover,Magic Kingdom,dizziness and chest pain after riding,2015,80,Male,No,No,9,September,Low,Wednesday
+Disney World,2015-01-04,Tomorrowland Transit Authority People Mover,Magic Kingdom,guest with pre-existing condition felt weakness & disorientation,2015,77,Male,No,Yes,1,January,Low,Sunday
+Disney World,2013-03-18,Tomorrowland Transit Authority People Mover,Magic Kingdom,felt ill/lost consciousness after exiting ride.,2013,73,Male,No,No,3,March,High,Monday
+Disney World,2022-09-25,Tomorrowland Transit Authority People Mover,Magic Kingdom,guest with pre-existing condition experienced cardiac event,2022,83,Male,No,Yes,9,September,Low,Sunday
+Disney World,2022-02-09,Tomorrowland Transit Authority People Mover,Magic Kingdom,guest loss consciousness while experiencing the attraction,2022,72,Female,No,No,2,February,Low,Wednesday
+Disney World,2017-07-09,Toy Story Midway Mania!,Hollywood Studios,guest with pre-existing condition felt ill,2017,70,Male,No,Yes,7,July,High,Sunday
+Disney World,2021-10-06,Toy Story Midway Mania!,Hollywood Studios,guest felt dizzy and fell exiting the attraction,2021,58,Female,No,No,10,October,Low,Wednesday
+Disney World,2020-03-12,Toy Story Midway Mania!,Hollywood Studios,guest had a heart attack after having experienced the attraction,2020,54,Male,No,No,3,March,High,Thursday
+Disney World,2016-02-23,Toy Story Midway Mania!,Hollywood Studios,guest with preexisting heart condition fainted while boarding attraction.,2016,19,Female,No,Yes,2,February,Low,Tuesday
+Disney World,2014-10-04,Toy Story Midway Mania!,Hollywood Studios," nausea & dizziness,  lost consciousness & subsequently passed away",2014,54,Female,Yes,No,10,October,Low,Saturday
+Disney World,2011-10-31,Toy Story Midway Mania!,Hollywood Studios,guest with pre-existing health condition fell near restrooms after exiting ride & struck his head,2011,73,Male,No,Yes,10,October,Low,Monday
+Disney World,2011-11-20,Toy Story Midway Mania!,Hollywood Studios,felt ill,2011,87,Male,No,No,11,November,Low,Sunday
+Universal,2015-06-10,Transformers: The Ride 3D,Universal Studios,chest discomfort,2015,52,Female,No,No,6,June,High,Wednesday
+Universal,2018-04-19,Transformers: The Ride 3D,Universal Studios,weakness,2018,49,Male,No,No,4,April,High,Thursday
+Disney World,2022-05-07,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,guest with pre-existing condition experienced stroke like symptoms after riding the attraction,2022,61,Female,No,Yes,5,May,Medium,Saturday
+Disney World,2016-08-16,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,seizure,2016,53,Female,No,No,8,August,High,Tuesday
+Disney World,2014-01-26,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,guest with pre-existing condition had seizure after riding,2014,3,Female,No,Yes,1,January,Low,Sunday
+Disney World,2019-02-09,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,guest with pre-existing condition complained of being dizzy and light-headed after riding,2019,56,Female,No,Yes,2,February,Low,Saturday
+Disney World,2019-07-21,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,guest with pre-existing medical condition had a seizure after experiencing the attraction,2019,69,Female,No,Yes,7,July,High,Sunday
+Disney World,2017-02-06,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,felt disoriented and fell after riding,2017,34,Male,No,No,2,February,Low,Monday
+Disney World,2016-04-07,Walt Disney World Railroad,Magic Kingdom,guest felt ill and began shaking after exiting.,2016,41,Male,No,No,4,April,High,Thursday
+Disney World,2015-05-05,Walt Disney World Railroad,Magic Kingdom,nausea and dizziness,2015,71,Male,No,No,5,May,Medium,Tuesday
+Disney World,2022-06-18,Wildlife Express,Animal Kingdom,guest felt ill after experiencing the attraction,2022,42,Male,No,No,6,June,High,Saturday
